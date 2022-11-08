@@ -2062,7 +2062,7 @@ DisplayBattleMenu::
 	ld a, $2 ; select the "ITEM" menu
 	jp .upperLeftMenuItemWasNotSelected
 .oldManName
-	db "OLD MAN@"
+	db "ANCIANO@"
 .handleBattleMenuInput
 	ld a, [wBattleAndStartSavedMenuItem]
 	ld [wCurrentMenuItem], a
@@ -2694,7 +2694,8 @@ MoveDisabledText:
 	text_end
 
 WhichTechniqueString:
-	db "WHICH TECHNIQUE?@"
+	db "¿Qué técnica?"
+	next "                 @"
 
 SelectMenuItem_CursorUp:
 	ld a, [wCurrentMenuItem]
@@ -2914,10 +2915,10 @@ PrintMenuItem:
 	jp Delay3
 
 DisabledText:
-	db "disabled!@"
+	db "¡Anulado!@"
 
 TypeText:
-	db "TYPE@"
+	db "TIPO@"
 
 SelectEnemyMove:
 	ld a, [wLinkState]
@@ -7089,7 +7090,7 @@ PrintEXPBar:
 	jr .loop
 .skip
 	ld b, a
-	ld a, $c0
+	ld a, $d7
 	add c
 .loop2
 	ld [hld], a
@@ -7098,7 +7099,7 @@ PrintEXPBar:
 	ld a, b
 	and a
 	jr nz, .loop
-	ld a, $c0
+	ld a, $d7
 	jr .loop2
 
 CalcEXPBarPixelLength:

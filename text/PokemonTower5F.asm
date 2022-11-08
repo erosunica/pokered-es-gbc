@@ -1,71 +1,76 @@
 _PokemonTower5Text1::
-	text "Come, child! I"
-	line "sealed this space"
-	cont "with white magic!"
+	text "¡Ven aquí niño!"
+	line "¡Sellé este lugar"
+	cont "con magia blanca!"
 
-	para "You can rest here!"
+	para "¡Aquí puedes"
+	line "descansar!"
 	done
 
 _PokemonTower5BattleText1::
-	text "Give...me..."
-	line "your...soul..."
+	text "Dame..."
+	line "tu... alma..."
 	done
 
 _PokemonTower5EndBattleText1::
-	text "Gasp!"
+	text "¡Gasp!"
 	prompt
 
 _PokemonTower5AfterBattleText1::
-	text "I was under"
-	line "possession!"
+	text "¡Estaba poseído!"
 	done
 
 _PokemonTower5BattleText2::
-	text "You...shall..."
-	line "join...us..."
+	text "Ven... con..."
+	line "nosotros..."
 	done
 
 _PokemonTower5EndBattleText2::
-	text "What"
-	line "a nightmare!"
+	text "¡Vaya"
+	line "pesadilla!"
 	prompt
 
 _PokemonTower5AfterBattleText2::
-	text "I was possessed!"
+	text "¡Estaba poseído!"
 	done
 
 _PokemonTower5BattleText3::
-	text "Zombies!"
+	text "¡Zombis!"
 	done
 
 _PokemonTower5EndBattleText3::
-	text "Ha?"
+	text "¿Ja?"
 	prompt
 
 _PokemonTower5AfterBattleText3::
-	text "I regained my"
-	line "senses!"
+	text "¡Recuperé"
+	line "la razón!"
 	done
 
 _PokemonTower5BattleText4::
-	text "Urgah..."
-	line "Urff...."
+	text "¡Oooo!..."
+	line "¡Uuuu!...."
 	done
 
 _PokemonTower5EndBattleText4::
-	text "Whoo!"
+	text "¡Uuuu!"
 	prompt
 
 _PokemonTower5AfterBattleText4::
-	text "I fell to evil"
-	line "spirits despite"
-	cont "my training!"
+	text "¡A pesar de mi"
+	line "entrenamiento fui"
+	cont "atrapado por los"
+	cont "espíritus!"
 	done
 
 _PokemonTower5Text7::
-	text "Entered purified,"
-	line "protected zone!"
+	text "¡Has entrado en"
+	line "una zona de"
+	cont "pureza y"
+	cont "seguridad!"
 
-	para "<PLAYER>'s #MON"
-	line "are fully healed!"
+	para "¡Los #MON de"
+	line "<PLAYER> están"
+	cont "curados!"
 	done
+

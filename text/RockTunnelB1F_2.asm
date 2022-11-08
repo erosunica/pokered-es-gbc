@@ -1,20 +1,23 @@
 _RockTunnel2AfterBattleText8::
-	text "I'll raise my"
-	line "#MON to beat"
-	cont "yours, kid!"
+	text "¡Criaré a mis"
+	line "#MON para"
+	cont "que destruyan a"
+	cont "los tuyos!"
 	done
 
 _RockTunnel2BattleText9::
-	text "I draw #MON"
-	line "when I'm home."
+	text "Cuando estoy en"
+	line "casa, dibujo a"
+	cont "los #MON."
 	done
 
 _RockTunnel2EndBattleText9::
-	text "Whew!"
-	line "I'm exhausted!"
+	text "¡Uf!"
+	line "¡Estoy agotado!"
 	prompt
 
 _RockTunnel2AfterBattleText9::
-	text "I'm an artist,"
-	line "not a fighter."
+	text "Soy un artista,"
+	line "no un guerrero."
 	done
+

@@ -1,78 +1,78 @@
 _Lab4Text_75dc6::
-	text "Hiya!"
+	text "¡Hola!"
 
-	para "I am important"
-	line "doctor!"
+	para "¡Soy un doctor"
+	line "muy importante!"
 
-	para "I study here rare"
-	line "#MON fossils!"
+	para "¡Y aquí estudio"
+	line "raros fósiles de"
+	cont "#MON!"
 
-	para "You! Have you a"
-	line "fossil for me?"
+	para "¿Tienes algún"
+	line "fósil para mí?"
 	prompt
 
 _Lab4Text_75dcb::
-	text "No! Is too bad!"
+	text "¡No! ¡Qué pena!"
 	done
 
 _Lab4Text_75dd0::
-	text "I take a little"
-	line "time!"
+	text "¡Tardaré un poco!"
 
-	para "You go for walk a"
-	line "little while!"
+	para "¡Date un paseo"
+	line "mientras tanto!"
 	done
 
 _Lab4Text_75dd5::
-	text "Where were you?"
+	text "¿Dónde estabas?"
 
-	para "Your fossil is"
-	line "back to life!"
+	para "¡Tu fósil ha"
+	line "revivido!"
 
-	para "It was @"
+	para "¡Sabía que era un"
+	line "@"
 	text_ram wcf4b
-	text_start
-	line "like I think!"
+	text "!"
 	prompt
 
 _Lab4Text_610ae::
-	text "Oh! That is"
+	text "¡Oh! ¡Es un"
 	line "@"
 	text_ram wcd6d
 	text "!"
 
-	para "It is fossil of"
+	para "¡Es un fósil de"
 	line "@"
 	text_ram wcf4b
-	text ", a"
-	cont "#MON that is"
-	cont "already extinct!"
+	text ","
+	cont "un #MON"
+	cont "ya extinto!"
 
-	para "My Resurrection"
-	line "Machine will make"
-	cont "that #MON live"
-	cont "again!"
+	para "¡Mi Máquina de"
+	line "Resurrección"
+	cont "revivirá a ese"
+	cont "#MON!"
 	done
 
 _Lab4Text_610b3::
-	text "So! You hurry and"
-	line "give me that!"
+	text "¡Date prisa y"
+	line "dame eso!"
 
-	para "<PLAYER> handed"
-	line "over @"
+	para "¡<PLAYER> le"
+	line "dio @"
 	text_ram wcd6d
 	text "!"
 	prompt
 
 _Lab4Text_610b8::
-	text "I take a little"
-	line "time!"
+	text "¡Me llevará un"
+	line "poco de tiempo!"
 
-	para "You go for walk a"
-	line "little while!"
+	para "¡Vete a dar un"
+	line "paseo!"
 	done
 
 _Lab4Text_610bd::
-	text "Aiyah! You come"
-	line "again!"
+	text "¡Eh! ¡Has venido"
+	line "a molestarme!"
 	done

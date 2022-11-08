@@ -1,23 +1,23 @@
 _VermilionHouse2Text_560b1::
-	text "I'm the FISHING"
-	line "GURU!"
+	text "¡Yo soy el GURÚ"
+	line "PESCADOR!"
 
-	para "I simply Looove"
-	line "fishing!"
+	para "¡Me encanta"
+	line "pescar!"
 
-	para "Do you like to"
-	line "fish?"
+	para "¿Y a ti, te gusta"
+	line "pescar?"
 	done
 
 _VermilionHouse2Text_560b6::
-	text "Grand! I like"
-	line "your style!"
+	text "¡Fenomenal! ¡Me"
+	line "gusta tu estilo!"
 
-	para "Take this and"
-	line "fish, young one!"
+	para "¡Toma esto y"
+	line "pesca, jovencito!"
 
-	para "<PLAYER> received"
-	line "an @"
+	para "¡<PLAYER> recibió"
+	line "@"
 	text_ram wcf4b
 	text "!@"
 	text_end
@@ -25,31 +25,31 @@ _VermilionHouse2Text_560b6::
 _VermilionHouse2Text_560bb::
 	text_start
 
-	para "Fishing is a way"
-	line "of life!"
+	para "¡Pescar es una"
+	line "forma de vivir!"
 
-	para "From the seas to"
-	line "rivers, go out"
-	cont "and land the big"
-	cont "one, young one!"
+	para "¡Del mar a los"
+	line "ríos, zarpa y"
+	cont "pesca el más"
+	cont "grande, chaval!"
 	done
 
 _VermilionHouse2Text_560c0::
-	text "Oh... That's so"
-	line "disappointing..."
+	text "¡Oh!...bueno..."
+	line "¡Qué pena!..."
 	done
 
 _VermilionHouse2Text_560c5::
-	text "Hello there,"
+	text "¡Hola"
 	line "<PLAYER>!"
 
-	para "How are the fish"
-	line "biting?"
+	para "¿Qué, pican"
+	line "los peces?"
 	done
 
 _VermilionHouse2Text_560ca::
-	text "Oh no!"
+	text "¡Oh no!"
 
-	para "You have no room"
-	line "for my gift!"
+	para "¡No tienes sitio"
+	line "para mi regalo!"
 	done

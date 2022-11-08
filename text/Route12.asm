@@ -1,139 +1,150 @@
 _Route12Text1::
-	text "A sleeping #MON"
-	line "blocks the way!"
+	text "¡Un #MON"
+	line "dormido bloquea"
+	cont "el camino!"
 	done
 
 _Route12Text13::
-	text "SNORLAX woke up!"
+	text "¡SNORLAX se"
+	line "despertó!"
 
-	para "It attacked in a"
-	line "grumpy rage!"
+	para "¡Se enfadó mucho"
+	line "y ataca furioso!"
 	done
 
 _Route12Text14::
-	text "SNORLAX calmed"
-	line "down! With a big"
-	cont "yawn, it returned"
-	cont "to the mountains!"
+	text "SNORLAX se calmó."
+	line "¡Y tras bostezar"
+	cont "regresó a las"
+	cont "montañas!"
 	done
 
 _Route12BattleText1::
-	text "Yeah! I got a"
-	line "bite, here!"
+	text "¡Bien! ¡Ha"
+	line "picado algo!"
 	done
 
 _Route12EndBattleText1::
-	text "Tch!"
-	line "Just a small fry!"
+	text_start
+	line "¡Bah! ¡Era muy"
+	cont "pequeñajo!"
 	prompt
 
 _Route12AfterBattleText1::
-	text "Hang on! My line's"
-	line "snagged!"
+	text "¡Alto! ¡Mi sedal"
+	line "está enganchado!"
 	done
 
 _Route12BattleText2::
-	text "Be patient!"
-	line "Fishing is a"
-	cont "waiting game!"
+	text "¡Ten paciencia!"
+	line "¡Pescar requiere"
+	cont "tiempo!"
 	done
 
 _Route12EndBattleText2::
-	text "That"
-	line "one got away!"
+	text "¡Ese"
+	line "se escapó!"
 	prompt
 
 _Route12AfterBattleText2::
-	text "With a better ROD,"
-	line "I could catch"
-	cont "better #MON!"
+	text "¡Con una CAÑA"
+	line "mejor podría"
+	cont "pescar mejores"
+	cont "#MON!"
 	done
 
 _Route12BattleText3::
-	text "Have you found a"
-	line "MOON STONE?"
+	text "¿Has encontrado"
+	line "una PIEDRA LUNAR?"
 	done
 
 _Route12EndBattleText3::
-	text "Oww!"
+	text_start
+	line "¡Auuuu!"
 	prompt
 
 _Route12AfterBattleText3::
-	text "I could have made"
-	line "my #MON evolve"
-	cont "with MOON STONE!"
+	text "¡Podría haber"
+	line "transformado a"
+	cont "mis #MON con"
+	cont "una PIEDRA LUNAR!"
 	done
 
 _Route12BattleText4::
-	text "Electricity is my"
-	line "specialty!"
+	text "¡Soy un experto"
+	line "en electricidad!"
 	done
 
 _Route12EndBattleText4::
-	text "Unplugged!"
+	text_start
+	line "¡Se acabó!"
 	prompt
 
 _Route12AfterBattleText4::
-	text "Water conducts"
-	line "electricity, so"
-	cont "you should zap"
-	cont "sea #MON!"
+	text "El agua conduce"
+	line "la electricidad."
+	cont "¡Deberías poder"
+	cont "atrapar a los"
+	cont "#MON del mar!"
 	done
 
 _Route12BattleText5::
-	text "The FISHING FOOL"
-	line "vs. #MON KID!"
+	text "¡El PESCADOR LOCO"
+	line "contra el NIÑO de"
+	cont "los #MON!"
 	done
 
 _Route12EndBattleText5::
-	text "Too"
-	line "much!"
+	text "¡Eso"
+	line "fue demasiado!"
 	prompt
 
 _Route12AfterBattleText5::
-	text "You beat me at"
-	line "#MON, but I'm"
-	cont "good at fishing!"
+	text "¡Me ganaste con"
+	line "los #MON,"
+	cont "pero yo soy muy"
+	cont "bueno pescando!"
 	done
 
 _Route12BattleText6::
-	text "I'd rather be"
-	line "working!"
+	text "¡Preferiría estar"
+	line "trabajando!"
 	done
 
 _Route12EndBattleText6::
-	text "It's"
-	line "not easy..."
+	text "No"
+	line "es fácil..."
 	prompt
 
 _Route12AfterBattleText6::
-	text "It's all right."
-	line "Losing doesn't"
-	cont "bug me any more."
+	text "Está bien."
+	line "Perder ya no"
+	cont "me importa."
 	done
 
 _Route12BattleText7::
-	text "You never know"
-	line "what you could"
-	cont "catch!"
+	text "¡Nunca se sabe"
+	line "lo que podrías"
+	cont "pescar!"
 	done
 
 _Route12EndBattleText7::
-	text "Lost"
-	line "it!"
+	text_start
+	line "¡He perdido!"
 	prompt
 
 _Route12AfterBattleText7::
-	text "I catch MAGIKARP"
-	line "all the time, but"
-	cont "they're so weak!"
+	text "¡Es fácil pescar"
+	line "MAGIKARP, son"
+	cont "tan débiles!"
 	done
 
 _Route12Text11::
-	text "ROUTE 12 "
-	line "North to LAVENDER"
+	text "RUTA 12: "
+	line "LAVANDA al norte"
 	done
 
 _Route12Text12::
-	text "SPORT FISHING AREA"
+	text "ZONA DE PESCA"
 	done
+

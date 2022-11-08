@@ -971,4 +971,3 @@ JynxPicBack::         INCBIN "gfx/pokemon/back/jynxb.pic"
 MarowakPicFront::     INCBIN "gfx/pokemon/front/marowak.pic"
 MarowakPicBack::      INCBIN "gfx/pokemon/back/marowakb.pic"
 ENDC
-

@@ -31,7 +31,7 @@ RunDmgError::
 
 	; Load font
 	ld de, FontCopy
-	ld bc, (FontCopyEnd - FontCopy) / 2
+	ld bc, (FontCopyEnd - FontCopy)
 	ld hl, vFont
 
 .nextByte
@@ -99,7 +99,7 @@ FontCopy:
 FontCopyEnd:
 
 DmgText:
-	db "This game will only "
-	db "     work on a      "
-	db "   Gameboy Color    "
-	db "  or GBA handheld   "
+	db "  Este juego sólo   "
+	db "  funciona en una   "
+	db "   Game Boy Color   "
+	db " o Game Boy Advance "

@@ -1,15 +1,16 @@
 _Route18GateUpstairsText_49993::
-	text "Looked into the"
-	line "binoculars."
+	text "Miraste por los"
+	line "prismáticos."
 
-	para "PALLET TOWN is in"
-	line "the west!"
+	para "¡El PUEBLO PALETA"
+	line "está al oeste!"
 	done
 
 _Route18GateUpstairsText_4999f::
-	text "Looked into the"
-	line "binoculars."
+	text "Miraste por los"
+	line "prismáticos."
 
-	para "There are people"
-	line "swimming!"
+	para "¡Hay gente"
+	line "nadando!"
 	done
+

@@ -1,190 +1,199 @@
 _CeladonGameCornerText1::
-	text "Welcome!"
+	text "¡Bienvenido!"
 
-	para "You can exchange"
-	line "your coins for"
-	cont "fabulous prizes"
-	cont "next door."
+	para "En la puerta de"
+	line "al lado puedes"
+	cont "cambiar tus"
+	cont "fichas por"
+	cont "grandes premios."
 	done
 
 _CeladonGameCornerText_48d22::
-	text "Welcome to ROCKET"
-	line "GAME CORNER!"
+	text "¡Bienvenido al"
+	line "CASINO ROCKET!"
 
-	para "Do you need some"
-	line "game coins?"
+	para "¿Quieres fichas?"
 
-	para "It's ¥1000 for 50"
-	line "coins. Would you"
-	cont "like some?"
+	para "50 fichas por"
+	line "1000¥. ¿Quieres"
+	cont "algunas?"
 	done
 
 _CeladonGameCornerText_48d27::
-	text "Thanks! Here are"
-	line "your 50 coins!"
+	text "¡Gracias! ¡Toma"
+	line "tus 50 fichas!"
 	done
 
 _CeladonGameCornerText_48d2c::
-	text "No? Please come"
-	line "play sometime!"
+	text "¿No? ¡Ven a jugar"
+	line "cuando quieras!"
 	done
 
 _CeladonGameCornerText_48d31::
-	text "You can't afford"
-	line "the coins!"
+	text "¡No tienes dinero"
+	line "para las fichas!"
 	done
 
 _CeladonGameCornerText_48d36::
-	text "Oops! Your COIN"
-	line "CASE is full."
+	text "¡Ups! Tu MONEDERO"
+	line "está lleno."
 	done
 
 _CeladonGameCornerText_48d3b::
-	text "You don't have a"
-	line "COIN CASE!"
+	text "¡No tienes un"
+	line "MONEDERO!"
 	done
 
 _CeladonGameCornerText3::
-	text "Keep this quiet."
+	text "Escucha y calla."
 
-	para "It's rumored that"
-	line "this place is run"
-	cont "by TEAM ROCKET."
+	para "Dicen que este"
+	line "lugar lo dirige"
+	cont "el TEAM ROCKET."
 	done
 
 _CeladonGameCornerText4::
-	text "I think these"
-	line "machines have"
-	cont "different odds."
+	text "¡Creo que estas"
+	line "máquinas tienen"
+	cont "trampa!"
 	done
 
 _CeladonGameCornerText_48d9c::
-	text "Kid, do you want"
-	line "to play?"
+	text "¡Oye niño!"
+	line "¿Quieres jugar?"
 	prompt
 
 _Received10CoinsText::
-	text "<PLAYER> received"
-	line "10 coins!@"
+	text "¡<PLAYER> obtuvo"
+	line "10 fichas!@"
 	text_end
 
 _CeladonGameCornerText_48da7::
-	text "You don't need my"
-	line "coins!"
+	text "¡No necesitas"
+	line "mis fichas!"
 	done
 
 _CeladonGameCornerText_48dac::
-	text "Wins seem to come"
-	line "and go."
+	text "La suerte viene"
+	line "y se va."
 	done
 
 _CeladonGameCornerText6::
-	text "I'm having a"
-	line "wonderful time!"
+	text "¡Me lo estoy"
+	line "pasando genial!"
 	done
 
 _CeladonGameCornerText_48dca::
-	text "Hey!"
+	text "¡Oye!"
 
-	para "You have better"
-	line "things to do,"
-	cont "champ in making!"
+	para "¡Tienes mejores"
+	line "cosas que hacer,"
+	cont "posible campeón!"
 
-	para "CELADON GYM's"
-	line "LEADER is ERIKA!"
-	cont "She uses grass-"
-	cont "type #MON!"
+	para "¡ERIKA es la"
+	line "LÍDER del"
+	cont "GIMNASIO de"
+	cont "AZULONA! ¡Ella"
+	cont "usa los #MON"
+	cont "del tipo-planta!"
 
-	para "She might appear"
-	line "docile, but don't"
-	cont "be fooled!"
+	para "Puede parecer muy"
+	line "dócil, ¡pero ten"
+	cont "mucho cuidado!"
 	done
 
 _CeladonGameCornerText_48dcf::
-	text "They offer rare"
-	line "#MON that can"
-	cont "be exchanged for"
-	cont "your coins."
+	text "¡Te ofrecen raros"
+	line "#MON que"
+	cont "pueden ser"
+	cont "cambiados por"
+	cont "tus fichas!"
 
-	para "But, I just can't"
-	line "seem to win!"
+	para "¡Pero parece que"
+	line "nunca gano!"
 	done
 
 _CeladonGameCornerText8::
-	text "Games are scary!"
-	line "It's so easy to"
-	cont "get hooked!"
+	text "¡Los juegos dan"
+	line "miedo! ¡Es tan"
+	cont "fácil enviciarse!"
 	done
 
 _CeladonGameCornerText_48e26::
-	text "What's up? Want"
-	line "some coins?"
+	text "¿Qué? ¿Quieres"
+	line "algunas fichas?"
 	prompt
 
 _Received20CoinsText::
-	text "<PLAYER> received"
-	line "20 coins!@"
+	text "¡<PLAYER> obtuvo"
+	line "20 fichas!@"
 	text_end
 
 _CeladonGameCornerText_48e31::
-	text "You have lots of"
-	line "coins!"
+	text "¡Tienes muchas"
+	line "fichas!"
 	done
 
 _CeladonGameCornerText_48e36::
-	text "Darn! I need more"
-	line "coins for the"
-	cont "#MON I want!"
+	text "¡Vaya! ¡Necesito"
+	line "más fichas para"
+	cont "los #MON"
+	cont "que quiero!"
 	done
 
 _CeladonGameCornerText_48e88::
-	text "Hey, what? You're"
-	line "throwing me off!"
-	cont "Here are some"
-	cont "coins, shoo!"
+	text "¿Qué? ¿Me estás"
+	line "echando? ¡Aquí"
+	cont "tienes algunas"
+	cont "fichas!"
 	prompt
 
 _CeladonGameCornerText_48e8d::
-	text "<PLAYER> received"
-	line "20 coins!@"
+	text "¡<PLAYER> obtuvo"
+	line "20 fichas!@"
 	text_end
 
 _CeladonGameCornerText_48e93::
-	text "You've got your"
-	line "own coins!"
+	text "¡Ya tienes tus"
+	line "propias fichas!"
 	done
 
 _CeladonGameCornerText_48e98::
-	text "The trick is to"
-	line "watch the reels"
-	cont "closely!"
+	text "¡El truco está en"
+	line "mirar atentamente"
+	cont "las pantallas!"
 	done
 
 _CeladonGameCornerText_48ece::
-	text "I'm guarding this"
-	line "poster!"
-	cont "Go away, or else!"
+	text "¡Yo protejo este"
+	line "cartel!"
+	cont "¡Lárgate de aquí!"
 	done
 
 _CeladonGameCornerText_48ed3::
-	text "Dang!"
+	text "¡Dang!"
 	prompt
 
 _CeladonGameCornerText_48ed8::
-	text "Our hideout might"
-	line "be discovered! I"
-	cont "better tell BOSS!"
+	text "¡Nuestra guarida"
+	line "podría ser"
+	cont "descubierta!"
+	cont "¡Será mejor"
+	cont "decírselo al"
+	cont "JEFE!"
 	done
 
 _CeladonGameCornerText_48f09::
-	text "Hey!"
+	text "¡Oye!"
 
-	para "A switch behind"
-	line "the poster!?"
-	cont "Let's push it!@"
+	para "¿¡Hay un botón"
+	line "detrás del"
+	cont "cartel!? ¡Vamos a"
+	cont "pulsarlo!@"
 	text_end
 
 _CeladonGameCornerText_48f19::
-	text "Oops! Forgot the"
-	line "COIN CASE!"
+	text "¡Ups! ¡Olvidé"
+	line "el MONEDERO!"
 	done
+

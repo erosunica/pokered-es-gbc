@@ -1,179 +1,196 @@
 _Route13BattleText2::
-	text "My bird #MON"
-	line "want to scrap!"
+	text "¡Mis pájaros"
+	line "#MON quieren"
+	cont "pelear!"
 	done
 
 _Route13EndBattleText2::
-	text "My"
-	line "bird combo lost?"
+	text_start
+	line "¿Perdió mi"
+	cont "combinación"
+	cont "de pájaros?"
 	prompt
 
 _Route13AfterBattleText2::
-	text "My #MON look"
-	line "happy even though"
-	cont "they lost."
+	text "Mis #MON"
+	line "parecen felices"
+	cont "aunque hayan"
+	cont "perdido."
 	done
 
 _Route13BattleText3::
-	text "I'm told I'm good"
-	line "for a kid!"
+	text "¡Dicen que soy"
+	line "muy buena para"
+	cont "ser una niña!"
 	done
 
 _Route13EndBattleText3::
-	text "Ohh!"
-	line "I lost!"
+	text_start
+	line "¡Oh! ¡He perdido!"
 	prompt
 
 _Route13AfterBattleText3::
-	text "I want to become"
-	line "a good trainer."
-	cont "I'll train hard."
+	text "Quiero ser una"
+	line "gran entrenadora."
+	cont "Trabajaré duro."
 	done
 
 _Route13BattleText4::
-	text "Wow! Your BADGEs"
-	line "are too cool!"
+	text "¡Qué chulas son"
+	line "tus MEDALLAS!"
 	done
 
 _Route13EndBattleText4::
-	text "Not"
-	line "enough!"
+	text "¡No"
+	line "fue suficiente!"
 	prompt
 
 _Route13AfterBattleText4::
-	text "You got those"
-	line "BADGEs from GYM"
-	cont "LEADERs. I know!"
+	text "¡Sé que lograste"
+	line "esas MEDALLAS de"
+	cont "los LÍDERES del"
+	cont "GIMNASIO!"
 	done
 
 _Route13BattleText5::
-	text "My cute #MON"
-	line "wish to make your"
-	cont "acquaintance."
+	text "Mis simpáticos"
+	line "#MON desean"
+	cont "conocerte."
 	done
 
 _Route13EndBattleText5::
-	text "Wow!"
-	line "You totally won!"
+	text_start
+	line "¡Uauu! ¡Me has"
+	cont "machacado!"
 	prompt
 
 _Route13AfterBattleText5::
-	text "You have to make"
-	line "#MON fight to"
-	cont "toughen them up!"
+	text "¡Tienes que hacer"
+	line "luchar a tus"
+	cont "#MON para"
+	cont "fortalecerlos!"
 	done
 
 _Route13BattleText6::
-	text "I found CARBOS in"
-	line "a cave once."
+	text "¡Una vez encontré"
+	line "CARBURANTE en"
+	cont "una cueva!"
 	done
 
 _Route13EndBattleText6::
-	text "Just"
-	line "messed up!"
+	text "¡Lo"
+	line "hice fatal!"
 	prompt
 
 _Route13AfterBattleText6::
-	text "CARBOS boosted"
-	line "the SPEED of my"
-	cont "#MON."
+	text "El CARBURANTE"
+	line "aumentó la"
+	cont "VELOCIDAD de"
+	cont "mis #MON."
 	done
 
 _Route13BattleText7::
-	text "The wind's blowing"
-	line "my way!"
+	text "¡El viento sopla"
+	line "en mi dirección!"
 	done
 
 _Route13EndBattleText7::
-	text "The"
-	line "wind turned!"
+	text "¡El"
+	line "viento cambió!"
 	prompt
 
 _Route13AfterBattleText7::
-	text "I'm beat. I guess"
-	line "I'll FLY home."
+	text "Perdí. Creo que"
+	line "VOLARÉ a casa."
 	done
 
 _Route13BattleText8::
-	text "Sure, I'll play"
-	line "with you!"
+	text "¡Claro que"
+	line "jugaré contigo!"
 	done
 
 _Route13EndBattleText8::
-	text "Oh!"
-	line "You little brute!"
+	text "¡Oh!"
+	line "¡Qué bruto eres!"
 	prompt
 
 _Route13AfterBattleText8::
-	text "I wonder which is"
-	line "stronger, male or"
-	cont "female #MON?"
+	text "¿Cuál es más"
+	line "fuerte, un"
+	cont "#MON femenino"
+	cont "o masculino?"
 	done
 
 _Route13BattleText9::
-	text "Do you want to"
-	line "#MON with me?"
+	text "¿Quieres jugar"
+	line "conmigo a los"
+	cont "#MON?"
 	done
 
 _Route13EndBattleText9::
-	text "It's over"
-	line "already?"
+	text_start
+	line "¿Ya se ha"
+	cont "terminado?"
 	prompt
 
 _Route13AfterBattleText9::
-	text "I don't know"
-	line "anything about"
-	cont "#MON. I just"
-	cont "like cool ones!"
+	text "¡No sé nada sobre"
+	line "los #MON!"
+	cont "¡Me gustan los"
+	cont "más chulos!"
 	done
 
 _Route13BattleText10::
-	text "What're you"
-	line "lookin' at?"
+	text "¿Y tú"
+	line "qué miras?"
 	done
 
 _Route13EndBattleText10::
-	text "Dang!"
-	line "Stripped gears!"
+	text "¡Vaya!"
+	line "¡Derrapé!"
 	prompt
 
 _Route13AfterBattleText10::
-	text "Get lost!"
+	text "¡Olvídame!"
 	done
 
 _Route13BattleText11::
-	text "I always go with"
-	line "bird #MON!"
+	text "¡Me encantan los"
+	line "pájaros #MON!"
 	done
 
 _Route13EndBattleText11::
-	text "Out"
-	line "of power!"
+	text "¡Me"
+	line "he quedado"
+	cont "sin energía!"
 	prompt
 
 _Route13AfterBattleText11::
-	text "I wish I could"
-	line "fly like PIDGEY"
-	cont "and PIDGEOTTO..."
+	text "Ojalá pudiera"
+	line "volar como PIDGEY"
+	cont "y PIDGEOTTO..."
 	done
 
 _Route13Text11::
-	text "TRAINER TIPS"
+	text "PISTAS ENTRENADOR"
 
-	para "Look to the left"
-	line "of that post!"
+	para "¡Mira a la"
+	line "izquierda de"
+	cont "ese poste!"
 	done
 
 _Route13Text12::
-	text "TRAINER TIPS"
+	text "PISTAS ENTRENADOR"
 
-	para "Use SELECT to"
-	line "switch items in"
-	cont "the ITEM window!"
+	para "¡Usa SELECT para"
+	line "cambiar objetos"
+	cont "en la ventana"
+	cont "OBJETOS!"
 	done
 
 _Route13Text13::
-	text "ROUTE 13"
-	line "North to SILENCE"
-	cont "BRIDGE"
+	text "RUTA 13:"
+	line "PUENTE SILENCIO"
+	cont "al norte"
 	done
+

@@ -1,119 +1,127 @@
 _MtMoon1BattleText2::
-	text "WHOA! You shocked"
-	line "me! Oh, you're"
-	cont "just a kid!"
+	text "¡GUAU! ¡Me has"
+	line "impresionado!"
+	cont "¡Pero si eres"
+	cont "sólo un niño!"
 	done
 
 _MtMoon1EndBattleText2::
-	text "Wow!"
-	line "Shocked again!"
+	text "¡Uau!"
+	line "¡Has vuelto"
+	cont "a impresionarme!"
 	prompt
 
 _MtMoon1AfterBattleText2::
-	text "Kids like you"
-	line "shouldn't be"
-	cont "here!"
+	text "¡Los niños como"
+	line "tú no deberían"
+	cont "estar aquí!"
 	done
 
 _MtMoon1BattleText3::
-	text "Did you come to"
-	line "explore too?"
+	text "¿Estás aquí"
+	line "para explorar?"
 	done
 
 _MtMoon1EndBattleText3::
-	text "Losing"
-	line "stinks!"
+	text "¡Perder"
+	line "apesta!"
 	prompt
 
 _MtMoon1AfterBattleText3::
-	text "I came down here"
-	line "to show off to"
-	cont "girls."
+	text "¡Vine aquí para"
+	line "impresionar a"
+	cont "las chicas!"
 	done
 
 _MtMoon1BattleText4::
-	text "Wow! It's way"
-	line "bigger in here"
-	cont "than I thought!"
+	text "¡Uau! ¡Esto es"
+	line "mucho más grande"
+	cont "de lo que creía!"
 	done
 
 _MtMoon1EndBattleText4::
-	text "Oh!"
-	line "I lost it!"
+	text "¡Oh!"
+	line "¡He perdido!"
 	prompt
 
 _MtMoon1AfterBattleText4::
-	text "How do you get"
-	line "out of here?"
+	text "¿Cómo se sale"
+	line "de aquí?"
 	done
 
 _MtMoon1BattleText5::
-	text "What! Don't sneak"
-	line "up on me!"
+	text "¡Qué! ¡No me"
+	line "traiciones!"
 	done
 
 _MtMoon1EndBattleText5::
-	text "My"
-	line "#MON won't do!"
+	text "¡Mis"
+	line "#MON no lo"
+	cont "han conseguido!"
 	prompt
 
 _MtMoon1AfterBattleText5::
-	text "I have to find"
-	line "stronger #MON."
+	text "¡Debo encontrar"
+	line "un #MON"
+	cont "más fuerte!"
 	done
 
 _MtMoon1BattleText6::
-	text "What? I'm waiting"
-	line "for my friends to"
-	cont "find me here."
+	text "¿Qué? Estoy"
+	line "esperando aquí"
+	cont "a mis amigos."
 	done
 
 _MtMoon1EndBattleText6::
-	text "I lost?"
+	text_start
+	line "¿He perdido?"
 	prompt
 
 _MtMoon1AfterBattleText6::
-	text "I heard there are"
-	line "some very rare"
-	cont "fossils here."
+	text "Dicen que aquí"
+	line "hay unos fósiles"
+	cont "muy raros."
 	done
 
 _MtMoon1BattleText7::
-	text "Suspicious men"
-	line "are in the cave."
-	cont "What about you?"
+	text "En la cueva hay"
+	line "unos hombres muy"
+	cont "sospechosos."
+	cont "¿Y tú qué?"
 	done
 
 _MtMoon1EndBattleText7::
-	text "You"
-	line "got me!"
+	text_start
+	line "¡Me has ganado!"
 	prompt
 
 _MtMoon1AfterBattleText7::
-	text "I saw them! I'm"
-	line "sure they're from"
-	cont "TEAM ROCKET!"
+	text "¡Los he visto!"
+	line "¡Son del TEAM"
+	cont "ROCKET! ¡Seguro!"
 	done
 
 _MtMoon1BattleText8::
-	text "Go through this"
-	line "cave to get to"
-	cont "CERULEAN CITY!"
+	text "¡Cruza esta"
+	line "cueva y llegarás"
+	cont "a CIUDAD CELESTE!"
 	done
 
 _MtMoon1EndBattleText8::
-	text "I"
-	line "lost."
+	text_start
+	line "He perdido."
 	prompt
 
 _MtMoon1AfterBattleText8::
-	text "ZUBAT is tough!"
-	line "But, it can be"
-	cont "useful if you"
-	cont "catch one."
+	text "¡ZUBAT es"
+	line "muy fuerte!"
+	cont "¡Atrapar uno"
+	cont "sería muy útil!"
 	done
 
 _MtMoon1Text14::
-	text "Beware! ZUBAT is"
-	line "a blood sucker!"
+	text "¡Cuidado! ¡Los"
+	line "ZUBAT son unos"
+	cont "chupasangre!"
 	done
+

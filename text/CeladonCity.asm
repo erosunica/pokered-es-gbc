@@ -1,154 +1,173 @@
 _CeladonCityText1::
-	text "I got my KOFFING"
-	line "in CINNABAR!"
+	text "¡Conseguí a mi"
+	line "KOFFING en la"
+	cont "CIUDAD CANELA!"
 
-	para "It's nice, but it"
-	line "breathes poison"
-	cont "when it's angry!"
+	para "¡Es muy simpático"
+	line "pero echa veneno"
+	cont "cuando se enfada!"
 	done
 
 _CeladonCityText2::
-	text "Heheh! This GYM"
-	line "is great! It's"
-	cont "full of women!"
+	text "¡Jeje! ¡Este"
+	line "GIMNASIO es"
+	cont "genial! ¡Está"
+	cont "lleno de chicas!"
 	done
 
 _CeladonCityText3::
-	text "The GAME CORNER"
-	line "is bad for our"
-	cont "city's image!"
+	text "¡El CASINO no es"
+	line "bueno para la"
+	cont "imagen de nuestra"
+	cont "ciudad!"
 	done
 
 _CeladonCityText4::
-	text "Moan! I blew it"
-	line "all at the slots!"
+	text "¡Ayyy! ¡Lo perdí"
+	line "todo en las"
+	cont "tragaperras!"
 
-	para "I knew I should"
-	line "have cashed in my"
-	cont "coins for prizes!"
+	para "¡Debería haber"
+	line "cambiado todas"
+	cont "mis fichas por"
+	cont "premios!"
 	done
 
 _TM41PreText::
-	text "Hello, there!"
+	text "¡Hola a todos!"
 
-	para "I've seen you,"
-	line "but I never had a"
-	cont "chance to talk!"
+	para "¡Te había visto,"
+	line "pero nunca había"
+	cont "podido hablar"
+	cont "contigo!"
 
-	para "Here's a gift for"
-	line "dropping by!"
+	para "¡Éste es tu"
+	line "regalo por pasar"
+	cont "a verme!"
 	prompt
 
 _ReceivedTM41Text::
-	text "<PLAYER> received"
+	text "¡<PLAYER> recibió"
 	line "@"
 	text_ram wcf4b
 	text "!@"
 	text_end
 
 _TM41ExplanationText::
-	text "TM41 teaches"
-	line "SOFTBOILED!"
+	text "¡La MT41 enseña"
+	line "el AMORTIGUADOR!"
 
-	para "Only one #MON"
-	line "can use it!"
+	para "¡Éste sólo puede"
+	line "ser usado por un"
+	cont "#MON!"
 
-	para "That #MON is"
-	line "CHANSEY!"
+	para "¡Ese #MON"
+	line "es CHANSEY!"
 	done
 
 _TM41NoRoomText::
-	text "Oh, your pack is"
-	line "full of items!"
+	text "¡Tu mochila está"
+	line "llena de objetos!"
 	done
 
 _CeladonCityText6::
-	text "This is my trusted"
-	line "pal, POLIWRATH!"
+	text "¡Éste es mi fiel"
+	line "compañero, " ; this space might be off
+	cont "POLIWRATH!"
 
-	para "It evolved from"
-	line "POLIWHIRL when I"
-	cont "used WATER STONE!"
+	para "¡Evolucionó del"
+	line "POLIWHIRL al usar"
+	cont "la PIEDRA AGUA!"
 	done
 
 _CeladonCityText7::
-	text "POLIWRATH: Ribi"
-	line "ribit!@"
+	text "POLIWRATH: ¡Poli"
+	line "poli!@"
 	text_end
 
 _CeladonCityText8::
-	text "What are you"
-	line "staring at?"
+	text "¿Qué estás"
+	line "mirando?"
 	done
 
 _CeladonCityText9::
-	text "Keep out of TEAM"
-	line "ROCKET's way!"
+	text "¡No te cruces en"
+	line "el camino del"
+	cont "TEAM ROCKET!"
 	done
 
 _CeladonCityText10::
-	text "TRAINER TIPS"
+	text "PISTAS ENTRENADOR"
 
-	para "X ACCURACY boosts"
-	line "the accuracy of"
-	cont "techniques!"
+	para "¡PRECISIÓN X"
+	line "aumenta la"
+	cont "precisión de"
+	cont "los ataques!"
 
-	para "DIRE HIT jacks up"
-	line "the likelihood of"
-	cont "critical hits!"
+	para "¡El DIRECTO"
+	line "aumenta la"
+	cont "posibilidad de"
+	cont "tiros críticos!"
 
-	para "Get your items at"
-	line "CELADON DEPT."
-	cont "STORE!"
+	para "¡Compra tus"
+	line "objetos en el"
+	cont "CENTRO COMERCIAL"
+	cont "de AZULONA!"
 	done
 
 _CeladonCityText11::
-	text "CELADON CITY"
-	line "The City of"
-	cont "Rainbow Dreams"
+	text "CIUDAD AZULONA"
+	line "La ciudad de"
+	cont "los sueños de"
+	cont "arcoiris."
 	done
 
 _CeladonCityText13::
-	text "CELADON CITY"
-	line "#MON GYM"
-	cont "LEADER: ERIKA"
+	text "LÍDER del GIMNASIO"
+	line "#MON de"
+	cont "CIUDAD AZULONA:"
+	cont "ERIKA"
 
-	para "The Nature Loving"
-	line "Princess!"
+	para "¡La princesa"
+	line "amante de la"
+	cont "naturaleza!"
 	done
 
 _CeladonCityText14::
-	text "CELADON MANSION"
+	text "MANSIÓN AZULONA"
 	done
 
 _CeladonCityText15::
-	text "Find what you"
-	line "need at CELADON"
-	cont "DEPT. STORE!"
+	text "¡Compra lo que"
+	line "necesites en el"
+	cont "CENTRO COMERCIAL"
+	cont "de AZULONA!"
 	done
 
 _CeladonCityText16::
-	text "TRAINER TIPS"
+	text "PISTAS ENTRENADOR"
 
-	para "GUARD SPEC."
-	line "protects #MON"
-	cont "against SPECIAL"
-	cont "attacks such as"
-	cont "fire and water!"
+	para "¡PROTECCIÓN ESP."
+	line "protege a tus"
+	cont "#MON de"
+	cont "ataques como el"
+	cont "agua y el fuego!"
 
-	para "Get your items at"
-	line "CELADON DEPT."
-	cont "STORE!"
+	para "¡Compra tus"
+	line "objetos en el"
+	cont "CENTRO COMERCIAL"
+	cont "de AZULONA!"
 	done
 
 _CeladonCityText17::
-	text "Coins exchanged"
-	line "for prizes!"
-	cont "PRIZE EXCHANGE"
+	text "¡Se cambian"
+	line "fichas por"
+	cont "premios!"
+	cont "CAMBIO DE PREMIOS"
 	done
 
 _CeladonCityText18::
-	text "ROCKET GAME CORNER"
-	line "The playground"
-	cont "for grown-ups!"
+	text "CASINO ROCKET"
+	line "¡El parque de"
+	cont "los adultos!"
 	done

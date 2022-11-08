@@ -1,86 +1,89 @@
 _MoltresBattleText::
-	text "Gyaoo!@"
+	text "¡Mol Tres!@"
 	text_end
 
 _VictoryRoad2BattleText1::
-	text "VICTORY ROAD is"
-	line "the final test"
-	cont "for trainers!"
+	text "¡La CALLE"
+	line "VICTORIA es la"
+	cont "prueba final de"
+	cont "todo entrenador!"
 	done
 
 _VictoryRoad2EndBattleText1::
-	text "Aiyah!"
+	text "¡Aiiii!"
 	prompt
 
 _VictoryRoad2AfterBattleText1::
-	text "If you get stuck,"
-	line "try moving some"
-	cont "boulders around!"
+	text "¡Prueba a mover"
+	line "las rocas si"
+	cont "estás bloqueado!"
 	done
 
 _VictoryRoad2BattleText2::
-	text "Ah, so you wish"
-	line "to challenge the"
-	cont "ELITE FOUR?"
+	text "¡Ah! ¿Quieres"
+	line "desafiar al"
+	cont "ALTO MANDO?"
 	done
 
 _VictoryRoad2EndBattleText2::
-	text "You"
-	line "got me!"
+	text_start
+	line "¡Me has ganado!"
 	prompt
 
 _VictoryRoad2AfterBattleText2::
-	text "<RIVAL> also came"
-	line "through here!"
+	text "¡<RIVAL> también"
+	line "vino por aquí!"
 	done
 
 _VictoryRoad2BattleText3::
-	text "Come on!"
-	line "I'll whip you!"
+	text "¡Adelante! ¡Te"
+	line "daré una paliza!"
 	done
 
 _VictoryRoad2EndBattleText3::
-	text "I got"
-	line "whipped!"
+	text "¡Me has"
+	line "machacado!"
 	prompt
 
 _VictoryRoad2AfterBattleText3::
-	text "You earned the"
-	line "right to be on"
-	cont "VICTORY ROAD!"
+	text "¡Ahora puedes"
+	line "recorrer la"
+	cont "CALLE VICTORIA!"
 	done
 
 _VictoryRoad2BattleText4::
-	text "If you can get"
-	line "through here, you"
-	cont "can go meet the"
-	cont "ELITE FOUR!"
+	text "¡Si puedes pasar"
+	line "por aquí, podrás"
+	cont "enfrentarte al"
+	cont "ALTO MANDO!"
 	done
 
 _VictoryRoad2EndBattleText4::
-	text "No!"
-	line "Unbelievable!"
+	text "¡No!"
+	line "¡Increíble!"
 	prompt
 
 _VictoryRoad2AfterBattleText4::
-	text "I can beat you"
-	line "when it comes to"
-	cont "knowledge about"
+	text "¡Puedo vencerte"
+	line "en cuanto a"
+	cont "conocimientos"
+	cont "sobre los"
 	cont "#MON!"
 	done
 
 _VictoryRoad2BattleText5::
-	text "Is VICTORY ROAD"
-	line "too tough?"
+	text "¿Es muy dura la"
+	line "CALLE VICTORIA?"
 	done
 
 _VictoryRoad2EndBattleText5::
-	text "Well"
-	line "done!"
+	text_start
+	line "¡Bien hecho!"
 	prompt
 
 _VictoryRoad2AfterBattleText5::
-	text "Many trainers give"
-	line "up the challenge"
-	cont "here."
+	text "¡Muchos de los"
+	line "entrenadores"
+	cont "se rinden aquí!"
 	done
+

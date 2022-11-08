@@ -315,12 +315,12 @@ PrintStatusCondition::
 	or b ; is the pokemon's HP zero?
 	pop de
 	jr nz, PrintStatusConditionNotFainted
-; if the pokemon's HP is 0, print "FNT"
-	ld a, "F"
+; if the pokemon's HP is 0, print "DEB"
+	ld a, "D"
 	ld [hli], a
-	ld a, "N"
+	ld a, "E"
 	ld [hli], a
-	ld [hl], "T"
+	ld [hl], "B"
 	and a
 	ret
 

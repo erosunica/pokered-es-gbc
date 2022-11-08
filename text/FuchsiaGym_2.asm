@@ -1,31 +1,31 @@
 _KogaExplainToxicText::
-	text "When afflicted by"
-	line "TOXIC, #MON"
-	cont "suffer more and"
-	cont "more as battle"
-	cont "progresses!"
+	text "¡Si los #MON"
+	line "son INTOXICADOS"
+	cont "sufrirán más y"
+	cont "más durante"
+	cont "la batalla!"
 
-	para "It will surely"
-	line "terrorize foes!"
+	para "¡Y aterrorizará"
+	line "a los enemigos!"
 	done
 
 _FuchsiaGymText9::
-	text "Now that you have"
-	line "the SOULBADGE,"
-	cont "the DEFENSE of"
-	cont "your #MON"
-	cont "increases!"
+	text "¡Ahora que tienes"
+	line "la MEDALLA-ALMA,"
+	cont "la DEFENSA de"
+	cont "tus #MON"
+	cont "aumentará!"
 
-	para "It also lets you"
-	line "SURF outside of"
-	cont "battle!"
+	para "¡Y podrás SURFEAR"
+	line "para salir del"
+	cont "combate!"
 
-	para "Ah! Take this"
-	line "too!"
+	para "¡Ah! ¡Llévate"
+	line "esto también!"
 	done
 
 _ReceivedTM06Text::
-	text "<PLAYER> received"
+	text "¡<PLAYER> recibió"
 	line "@"
 	text_ram wcf4b
 	text "!@"
@@ -33,162 +33,171 @@ _ReceivedTM06Text::
 
 _TM06ExplanationText::
 	text_start
-	para "TM06 contains"
-	line "TOXIC!"
 
-	para "It is a secret"
-	line "technique over"
-	cont "400 years old!"
+	para "¡La MT06 incluye"
+	line "el TÓXICO!"
+
+	para "¡Es una técnica"
+	line "secreta de hace"
+	cont "más de 400 años!"
 	done
 
 _TM06NoRoomText::
-	text "Make space for"
-	line "this, child!"
+	text "¡Hazle sitio a"
+	line "esto, chaval!"
 	done
 
 _FuchsiaGymBattleText1::
-	text "Strength isn't"
-	line "the key for"
-	cont "#MON!"
+	text "¡La fuerza no es"
+	line "la clave!"
 
-	para "It's strategy!"
+	para "Es la estrategia."
 
-	para "I'll show you how"
-	line "strategy can beat"
-	cont "brute strength!"
+	para "¡Te enseñaré cómo"
+	line "la estrategia"
+	cont "puede vencer a"
+	cont "la fuerza!"
 	done
 
 _FuchsiaGymEndBattleText1::
-	text "What?"
-	line "Extraordinary!"
+	text_start
+	line "¡Extraordinario!"
 	prompt
 
 _FuchsiaGymAfterBattleText1::
-	text "So, you mix brawn"
-	line "with brains?"
-	cont "Good strategy!"
+	text "¿Mezclarás fuerza"
+	line "e inteligencia?"
+	cont "¡Buena táctica!"
 	done
 
 _FuchsiaGymBattleText2::
-	text "I wanted to become"
-	line "a ninja, so I"
-	cont "joined this GYM!"
+	text "¡Quería ser un"
+	line "ninja y por eso"
+	cont "vine a este"
+	cont "GIMNASIO!"
 	done
 
 _FuchsiaGymEndBattleText2::
-	text "I'm done"
-	line "for!"
+	text "¡Bu!"
+	line "¡He perdido!"
 	prompt
 
 _FuchsiaGymAfterBattleText2::
-	text "I will keep on"
-	line "training under"
-	cont "KOGA, my ninja"
-	cont "master!"
+	text "¡Seguiré"
+	line "entrenándome con"
+	cont "KOGA, mi maestro"
+	cont "ninja!"
 	done
 
 _FuchsiaGymBattleText3::
-	text "Let's see you"
-	line "beat my special"
-	cont "techniques!"
+	text "¡A ver si superas"
+	line "mis técnicas"
+	cont "especiales!"
 	done
 
 _FuchsiaGymEndBattleText3::
-	text "You"
-	line "had me fooled!"
+	text_start
+	line "¡Me engañaste!"
 	prompt
 
 _FuchsiaGymAfterBattleText3::
-	text "I like poison and"
-	line "sleep techniques,"
-	cont "as they linger"
-	cont "after battle!"
+	text "¡Me gustan los"
+	line "ataques del sueño"
+	cont "y los venenos"
+	cont "porque perduran"
+	cont "tras la batalla!"
 	done
 
 _FuchsiaGymBattleText4::
-	text "Stop right there!"
+	text "¡Alto ahí!"
 
-	para "Our invisible"
-	line "walls have you"
-	cont "frustrated?"
+	para "¿Te han frustrado"
+	line "nuestros muros"
+	cont "invisibles?"
 	done
 
 _FuchsiaGymEndBattleText4::
-	text "Whoa!"
-	line "He's got it!"
+	text "¡Uauuu!"
+	line "¡Está acabado!"
 	prompt
 
 _FuchsiaGymAfterBattleText4::
-	text "You impressed me!"
-	line "Here's a hint!"
+	text "¡Impresionante!"
+	line "¡Ten una pista!"
 
-	para "Look very closely"
-	line "for gaps in the"
-	cont "invisible walls!"
+	para "¡Mira atentamente"
+	line "entre los huecos"
+	cont "de los muros"
+	cont "invisibles!"
 	done
 
 _FuchsiaGymBattleText5::
-	text "I also study the"
-	line "way of the ninja"
-	cont "with master KOGA!"
+	text "¡También estudio"
+	line "técnicas ninja"
+	cont "con el maestro"
+	cont "KOGA!"
 
-	para "Ninja have a long"
-	line "history of using"
-	cont "animals!"
+	para "¡Los ninja llevan"
+	line "mucho tiempo"
+	cont "usando animales!"
 	done
 
 _FuchsiaGymEndBattleText5::
-	text "Awoo!"
+	text "¡Auuuu!"
 	prompt
 
 _FuchsiaGymAfterBattleText5::
-	text "I still have much"
-	line "to learn!"
+	text "¡Me queda mucho"
+	line "por aprender!"
 	done
 
 _FuchsiaGymBattleText6::
-	text "Master KOGA comes"
-	line "from a long line"
-	cont "of ninjas!"
+	text "¡El maestro KOGA"
+	line "desciende de una"
+	cont "gran familia de"
+	cont "ninjas!"
 
-	para "What did you"
-	line "descend from?"
+	para "¿Y tú de"
+	line "qué familia"
+	cont "desciendes?"
 	done
 
 _FuchsiaGymEndBattleText6::
-	text "Dropped"
-	line "my balls!"
+	text "..."
+	line "Derrotado."
 	prompt
 
 _FuchsiaGymAfterBattleText6::
-	text "Where there is"
-	line "light, there is"
-	cont "shadow!"
+	text "¡Donde hay luz"
+	line "hay sombras!"
 
-	para "Light and shadow!"
-	line "Which do you"
-	cont "choose?"
+	para "¡Luz y sombra!"
+	line "¿Cuál eliges?"
 	done
 
 _FuchsiaGymText_7564e::
-	text "Yo! Champ in"
-	line "making!"
+	text "¡Hola,"
+	line "posible campeón!"
 
-	para "FUCHSIA GYM is"
-	line "riddled with"
-	cont "invisible walls!"
+	para "¡El GIMNASIO"
+	line "FUCSIA está lleno"
+	cont "de muros"
+	cont "invisibles!"
 
-	para "KOGA might appear"
-	line "close, but he's"
-	cont "blocked off!"
+	para "¡Podría parecer"
+	line "que KOGA está"
+	cont "cerca, pero hay"
+	cont "muros invisibles"
+	cont "que le protegen!"
 
-	para "You have to find"
-	line "gaps in the walls"
-	cont "to reach him!"
+	para "¡Encuentra huecos"
+	line "entre los muros"
+	cont "para llegar a él!"
 	done
 
 _FuchsiaGymText_75653::
-	text "It's amazing how"
-	line "ninja can terrify"
-	cont "even now!"
+	text "¡Es increíble lo"
+	line "terribles que"
+	cont "pueden ser los"
+	cont "ninjas!"
 	done

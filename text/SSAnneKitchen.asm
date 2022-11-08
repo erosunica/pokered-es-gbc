@@ -1,69 +1,81 @@
 _SSAnne6Text1::
-	text "You, mon petit!"
-	line "We're busy here!"
-	cont "Out of the way!"
+	text "¡Hola, pequeñajo!"
+	line "¡Ahora estamos"
+
+	para "ocupados!"
+	line "¡Fuera de aquí!"
 	done
 
 _SSAnne6Text2::
-	text "I saw an odd ball"
-	line "in the trash."
+	text "Vi una bola muy"
+	line "rara en la"
+	cont "basura."
 	done
 
 _SSAnne6Text3::
-	text "I'm so busy I'm"
-	line "getting dizzy!"
+	text "¡Estoy tan"
+	line "ocupado que me"
+	cont "estoy mareando!"
 	done
 
 _SSAnne6Text4::
-	text "Hum-de-hum-de-"
-	line "ho..."
+	text "¿Por qué?"
+	line "¿Por qué yo?"
 
-	para "I peel spuds"
-	line "every day!"
-	cont "Hum-hum..."
+	para "¡Me paso todo"
+	line "el día pelando"
+	cont "patatas!"
 	done
 
 _SSAnne6Text5::
-	text "Did you hear about"
-	line "SNORLAX?"
+	text "¿Has oído hablar"
+	line "de SNORLAX?"
 
-	para "All it does is"
-	line "eat and sleep!"
+	para "¡Se pasa todo el"
+	line "día comiendo y"
+	cont "durmiendo!"
 	done
 
 _SSAnne6Text6::
-	text "Snivel...Sniff..."
+	text "Sniff...sniff..."
 
-	para "I only get to"
-	line "peel onions..."
-	cont "Snivel..."
+	para "Yo sólo pelo"
+	line "cebollas..."
+	cont "Sniff..."
 	done
 
 _SSAnne6Text_61807::
-	text "Er-hem! Indeed I"
-	line "am le CHEF!"
+	text "¡Ejem! ¡Por algo"
+	line "soy el CHEF!"
 
-	para "Le main course is"
+	para "El menú es:"
 	prompt
 
 _SSAnne6Text_6180c::
-	text "Salmon du Salad!"
+	text "¡Ensalada de"
+	line "salmón!"
 
-	para "Les guests may"
-	line "gripe it's fish"
-	cont "again, however!"
+	para "¡Pero puede que"
+	line "los clientes se"
+	cont "quejen de tanto"
+	cont "repetir pescado!"
 	done
 
 _SSAnne6Text_61811::
-	text "Eels au Barbecue!"
+	text "¡Anguilas a la"
+	line "barbacoa!"
 
-	para "Les guests will"
-	line "mutiny, I fear."
+	para "¡Me temo que los"
+	line "clientes se van"
+	cont "a amotinar!"
 	done
 
 _SSAnne6Text_61816::
-	text "Prime Beef Steak!"
+	text "¡Filetes de vaca!"
 
-	para "But, have I enough"
-	line "fillets du beef?"
+	para "Pero, ¡¿tengo"
+	line "bastantes"
+	cont "filetes para"
+	cont "todos?!"
 	done
+

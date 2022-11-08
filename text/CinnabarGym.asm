@@ -1,49 +1,56 @@
 _BlaineBattleText::
-	text "Hah!"
+	text "¡Ja!"
 
-	para "I am BLAINE! I"
-	line "am the LEADER of"
-	cont "CINNABAR GYM!"
+	para "¡Soy BLAINE!"
+	line "¡LÍDER del"
+	cont "GIMNASIO de la"
+	cont "CIUDAD CANELA!"
 
-	para "My fiery #MON"
-	line "will incinerate"
-	cont "all challengers!"
+	para "¡Mis feroces"
+	line "#MON"
+	cont "quemarán a"
+	cont "todo aquel que"
+	cont "me desafíe!"
 
-	para "Hah! You better"
-	line "have BURN HEAL!"
+	para "¡Ja! ¡Mejor que"
+	line "tengas el"
+	cont "ANTIQUEMADURAS!"
 	done
 
 _BlaineEndBattleText::
-	text "I have"
-	line "burnt out!"
+	text "¡Me has"
+	line "machacado!"
 
-	para "You have earned"
-	line "the VOLCANOBADGE!@"
+	para "¡Has ganado la"
+	line "MEDALLA-VOLCÁN!@"
 	text_end
 
 _BlaineFireBlastText::
-	text "FIRE BLAST is the"
-	line "ultimate fire"
-	cont "technique!"
+	text "¡El FUEGO es lo"
+	line "máximo en la"
+	cont "técnica de las"
+	cont "quemaduras!"
 
-	para "Don't waste it on"
-	line "water #MON!"
+	para "¡No lo malgastes"
+	line "con los #MON"
+	cont "acuáticos!"
 	done
 
 _BlaineBadgeText::
-	text "Hah!"
+	text "¡Ja!"
 
-	para "The VOLCANOBADGE"
-	line "heightens the"
-	cont "SPECIAL abilities"
-	cont "of your #MON!"
+	para "¡La MEDALLA-"
+	line "VOLCÁN mejora"
+	cont "las habilidades"
+	cont "ESPECIALES de"
+	cont "tus #MON!"
 
-	para "Here, you can"
-	line "have this too!"
+	para "¡Mira, también"
+	line "te daré esto!"
 	done
 
 _ReceivedTM38Text::
-	text "<PLAYER> received"
+	text "¡<PLAYER> recibió"
 	line "@"
 	text_ram wcf4b
 	text "!@"
@@ -52,161 +59,179 @@ _ReceivedTM38Text::
 _TM38ExplanationText::
 	text_start
 
-	para "TM38 contains"
-	line "FIRE BLAST!"
+	para "¡La MT38 incluye"
+	line "la LLAMARADA!"
 
-	para "Teach it to fire-"
-	line "type #MON!"
+	para "¡Enseña este"
+	line "ataque a los"
+	cont "#MON del"
+	cont "tipo-fuego!"
 
-	para "CHARMELEON or"
-	line "PONYTA would be"
-	cont "good bets!"
+	para "¡CHARMELEON o"
+	line "PONYTA serían las"
+	cont "mejores apuestas!"
 	done
 
 _TM38NoRoomText::
-	text "Make room for my"
-	line "gift!"
+	text "¡Hazle sitio a"
+	line "mi regalo!"
 	done
 
 _CinnabarGymText_7595f::
-	text "Do you know how"
-	line "hot #MON fire"
-	cont "breath can get?"
+	text "¿Sabes el calor"
+	line "que puede dar el"
+	cont "aliento de fuego"
+	cont "de un #MON?"
 	done
 
 _CinnabarGymText_75964::
-	text "Yow!"
-	line "Hot, hot, hot!"
+	text "¡Ay!"
+	line "¡Quema, quema!"
 	prompt
 
 _CinnabarGymText_75969::
-	text "Fire, or to be"
-	line "more precise,"
-	cont "combustion..."
+	text "Fuego, o para ser"
+	line "más preciso,"
+	cont "combustión..."
 
-	para "Blah, blah, blah,"
-	line "blah..."
+	para "¡Bla, bla, bla,"
+	line "bla!..."
 	done
 
 _CinnabarGymText_75994::
-	text "I was a thief, but"
-	line "I became straight"
-	cont "as a trainer!"
+	text "¡Yo era un ladrón"
+	line "pero me volví"
+	cont "honrado cuando me"
+	cont "hice entrenador!"
 	done
 
 _CinnabarGymText_75999::
-	text "I"
-	line "surrender!"
+	text_start
+	line "¡Me rindo!"
 	prompt
 
 _CinnabarGymText_7599e::
-	text "I can't help"
-	line "stealing other"
-	cont "people's #MON!"
+	text "¡No puedo evitar"
+	line "robar los "
+	cont "#MON de"
+	cont "otras personas!"
 	done
 
 _CinnabarGymText_759c9::
-	text "You can't win!"
-	line "I have studied"
-	cont "#MON totally!"
+	text "¡No puedes ganar!"
+	line "¡Soy un experto"
+	cont "en los #MON!"
 	done
 
 _CinnabarGymText_759ce::
-	text "Waah!"
-	line "My studies!"
+	text "¡Au!"
+	line "¡Mis estudios!"
 	prompt
 
 _CinnabarGymText_759d3::
-	text "My theories are"
-	line "too complicated"
-	cont "for you!"
+	text "¡Mis teorías son"
+	line "muy complicadas"
+	cont "para ti!"
 	done
 
 _CinnabarGymText_759fe::
-	text "I just like using"
-	line "fire #MON!"
+	text "¡Me encanta usar"
+	line "a los #MON"
+	cont "del fuego!"
 	done
 
 _CinnabarGymText_75a03::
-	text "Too hot"
-	line "to handle!"
+	text_start
+	line "¡Quema demasiado!"
 	prompt
 
 _CinnabarGymText_75a08::
-	text "I wish there was"
-	line "a thief #MON!"
-	cont "I'd use that!"
+	text "¡Ojalá hubiera un"
+	line "#MON ladrón!"
+	cont "¡Me encantaría"
+	cont "utilizarlo!"
 	done
 
 _CinnabarGymText_75a33::
-	text "I know why BLAINE"
-	line "became a trainer!"
+	text "¡Ya sé por qué"
+	line "BLAINE se hizo"
+	cont "entrenador!"
 	done
 
 _CinnabarGymText_75a38::
-	text "Ow!"
+	text_start
+	line "¡Auuuuuuuuuu!"
 	prompt
 
 _CinnabarGymText_75a3d::
-	text "BLAINE was lost"
-	line "in the mountains"
-	cont "when a fiery bird"
-	cont "#MON appeared."
+	text "BLAINE estaba"
+	line "perdido en las"
+	cont "montañas, cuando"
+	cont "apareció un feroz"
+	cont "pájaro #MON."
 
-	para "Its light enabled"
-	line "BLAINE to find"
-	cont "his way down!"
+	para "¡Su luz permitió"
+	line "a BLAINE"
+	cont "encontrar la"
+	cont "forma de bajar!"
 	done
 
 _CinnabarGymText_75a68::
-	text "I've been to many"
-	line "GYMs, but this is"
-	cont "my favorite!"
+	text "¡Estuve en muchos"
+	line "GIMNASIOS,"
+	cont "pero éste es mi"
+	cont "preferido!"
 	done
 
 _CinnabarGymText_75a6d::
-	text "Yowza!"
-	line "Too hot!"
+	text "¡Caray!"
+	line "¡Eso quema!"
 	prompt
 
 _CinnabarGymText_75a72::
-	text "Us fire #MON"
-	line "fans like PONYTA"
-	cont "and NINETALES!"
+	text "¡A nosotros, los"
+	line "seguidores de los"
+	cont "#MON del fuego"
+	cont "nos gustan PONYTA"
+	cont "y NINETALES!"
 	done
 
 _CinnabarGymText_75a9d::
-	text "Fire is weak"
-	line "against H2O!"
+	text "El fuego es débil"
+	line "contra el H2O."
 	done
 
 _CinnabarGymText_75aa2::
-	text "Oh!"
-	line "Snuffed out!"
+	text "¡Oh!"
+	line "¡Esto se acabó!"
 	prompt
 
 _CinnabarGymText_75aa7::
-	text "Water beats fire!"
-	line "But, fire melts"
-	cont "ice #MON!"
+	text "¡El agua apaga el"
+	line "fuego! ¡Pero el"
+	cont "fuego derrite a"
+	cont "los #MON"
+	cont "de hielo!"
 	done
 
 _CinnabarGymText_75ac2::
-	text "Yo! Champ in"
-	line "making!"
+	text "¡Hola, posible"
+	line "campeón!"
 
-	para "The hot-headed"
-	line "BLAINE is a fire"
-	cont "#MON pro!"
+	para "¡BLAINE es un"
+	line "profesional de"
+	cont "los #MON"
+	cont "del fuego!"
 
-	para "Douse his spirits"
-	line "with water!"
+	para "¡Apaga con agua"
+	line "sus ánimos!"
 
-	para "You better take"
-	line "some BURN HEALs!"
+	para "¡Mejor que lleves"
+	line "ANTIQUEMADURAS!"
 	done
 
 _CinnabarGymText_75ac7::
-	text "<PLAYER>! You beat"
-	line "that fire brand!"
+	text "¡<PLAYER>, ganaste"
+	line "a esa antorcha"
+	cont "de fuego!"
 	done

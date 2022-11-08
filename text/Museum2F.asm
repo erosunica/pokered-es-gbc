@@ -1,45 +1,49 @@
 _Museum2FText1::
-	text "MOON STONE?"
+	text "¿LA PIEDRA LUNAR?"
 
-	para "What's so special"
-	line "about it?"
+	para "¿Por qué es"
+	line "tan especial?"
 	done
 
 _Museum2FText2::
-	text "July 20, 1969!"
+	text "¡20 julio, 1969!"
 
-	para "The 1st lunar"
-	line "landing!"
+	para "¡1er alunizaje!"
 
-	para "I bought a color"
-	line "TV to watch it!"
+	para "¡Compré una TV en"
+	line "color para verlo!"
 	done
 
 _Museum2FText3::
-	text "We have a space"
-	line "exhibit now."
+	text "Ahora tenemos"
+	line "una exposición"
+	cont "sobre el espacio."
 	done
 
 _Museum2FText4::
-	text "I want a PIKACHU!"
-	line "It's so cute!"
+	text "¡Quiero un"
+	line "PIKACHU!"
+	cont "¡Es tan mono!"
 
-	para "I asked my Daddy"
-	line "to catch me one!"
+	para "¡Le pedí a mi"
+	line "padre que me"
+	cont "atrapara uno!"
 	done
 
 _Museum2FText5::
-	text "Yeah, a PIKACHU"
-	line "soon, I promise!"
+	text "¡Sí, pronto"
+	line "tendrás a tu"
+	cont "PIKACHU!... "
 	done
 
 _Museum2FText6::
-	text "SPACE SHUTTLE"
+	text "NAVE ESPACIAL"
 	line "COLUMBIA"
 	done
 
 _Museum2FText7::
-	text "Meteorite that"
-	line "fell on MT.MOON."
-	cont "(MOON STONE?)"
+	text "Meteorito caído"
+	line "en el MT. MOON."
+	cont "(¿PIEDRA LUNAR?)"
 	done
+

@@ -1,39 +1,44 @@
 _Mansion4BattleText1::
-	text "Uh-oh. Where am"
-	line "I now?"
+	text "¡Oh-oh! ¿Dónde"
+	line "estoy ahora?"
 	done
 
 _Mansion4EndBattleText1::
-	text "Awooh!"
+	text "¡Uuups!"
 	prompt
 
 _Mansion4AfterBattleText1::
-	text "You can find stuff"
-	line "lying around."
+	text "Puedes recoger"
+	line "cosas del suelo."
 	done
 
 _Mansion4BattleText2::
-	text "This place is"
-	line "ideal for a lab."
+	text "Este lugar es"
+	line "ideal para un"
+	cont "laboratorio."
 	done
 
 _Mansion4EndBattleText2::
-	text "What"
-	line "was that for?"
+	text_start
+	line "¿Para qué era?"
 	prompt
 
 _Mansion4AfterBattleText2::
-	text "I like it here!"
-	line "It's conducive to"
-	cont "my studies!"
+	text "¡Me encanta este"
+	line "sitio! ¡Es muy"
+	cont "apropiado para"
+	cont "mis estudios!"
 	done
 
 _Mansion4Text7::
-	text "Diary; Sept. 1"
-	line "MEWTWO is far too"
-	cont "powerful."
+	text "Diario:"
+	line "1 de septiembre."
+	cont "MEWTWO es"
+	cont "demasiado"
+	cont "poderoso."
 
-	para "We have failed to"
-	line "curb its vicious"
-	cont "tendencies..."
+	para "No hemos sabido"
+	line "contener sus"
+	cont "malos instintos."
 	done
+

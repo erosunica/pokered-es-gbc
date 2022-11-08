@@ -1,105 +1,119 @@
 _SSAnne8Text8::
-	text "WIGGLYTUFF: Puup"
-	line "pupuu!@"
+	text "WIGGLYTUFF: ¡Wig"
+	line "Tuuuf, Tuuuf!@"
 	text_end
 
 _SSAnne8BattleText1::
-	text "I travel alone"
-	line "on my journeys!"
+	text "¡Viajo solo!"
 
-	para "My #MON are my"
-	line "only friends!"
+	para "¡Mis #MON"
+	line "son mis únicos"
+	cont "amigos!"
 	done
 
 _SSAnne8EndBattleText1::
-	text "My, my"
-	line "friends..."
+	text "¡Oh!"
+	line "¡Mis amigos!"
 	prompt
 
 _SSAnne8AfterBattleText1::
-	text "You should be"
-	line "nice to friends!"
+	text "¡Deberías"
+	line "portarte bien"
+	cont "con los amigos!"
 	done
 
 _SSAnne8BattleText2::
-	text "You pup! How dare"
-	line "you barge in!"
+	text "¡Oye tú, mocoso!"
+	line "¿Cómo te atreves"
+	cont "a entrar aquí?"
 	done
 
 _SSAnne8EndBattleText2::
-	text "Humph!"
-	line "You rude child!"
+	text "¡Oye!"
+	line "¡¡Eres un"
+	cont "niño muy malo!!"
 	prompt
 
 _SSAnne8AfterBattleText2::
-	text "I wish to be left"
-	line "alone! Get out!"
+	text "¡Me gustaría que"
+	line "me dejaras solo!"
+
+	para "¡¡Fuera de aquí!!"
 	done
 
 _SSAnne8BattleText3::
-	text "I love #MON!"
-	line "Do you?"
+	text "¡Me gustan los"
+	line "#MON!"
+	cont "¿Y a ti?"
 	done
 
 _SSAnne8EndBattleText3::
-	text "Wow! "
-	line "You're great!"
+	text "¡Guauu!"
+	line "¡Eres estupendo!"
 	prompt
 
 _SSAnne8AfterBattleText3::
-	text "Let me be your"
-	line "friend, OK?"
+	text "Seamos amigos,"
+	line "¿vale?"
 
-	para "Then we can trade"
-	line "#MON!"
+	para "¡Y así podremos"
+	line "intercambiar"
+	cont "#MON!"
 	done
 
 _SSAnne8BattleText4::
-	text "I collected these"
-	line "#MON from all"
-	cont "around the world!"
+	text "¡Recogí estos"
+	line "#MON por"
+	cont "todo el mundo!"
 	done
 
 _SSAnne8EndBattleText4::
-	text "Oh no!"
-	line "I went around the"
-	cont "world for these!"
+	text "¡Oh no!"
+	line "¡Viajé por todo"
+	cont "el mundo"
+	cont "sólo por ellos!"
 	prompt
 
 _SSAnne8AfterBattleText4::
-	text "You hurt my poor"
-	line "worldly #MON!"
+	text "¡Dañaste a mis"
+	line "pobres #MON!"
 
-	para "I demand that you"
-	line "heal them at a"
-	cont "#MON CENTER!"
+	para "¡¡¡Y exijo que"
+	line "los cures en"
+	cont "un CENTRO"
+	cont "#MON!!!"
 	done
 
 _SSAnne8Text5::
-	text "Waiter, I would"
-	line "like a cherry pie"
-	cont "please!"
+	text "¡Camarero, me"
+	line "gustaría tomar"
+	cont "una tarta de"
+	cont "cerezas!"
 	done
 
 _SSAnne8Text6::
-	text "A cruise is so"
-	line "elegant yet cozy!"
+	text "¡Los cruceros son"
+	line "tan elegantes y"
+	cont "acogedores!"
 	done
 
 _SSAnne8Text7::
-	text "I always travel"
-	line "with WIGGLYTUFF!"
+	text "¡Siempre viajo"
+	line "con WIGGLYTUFF!"
 	done
 
 _SSAnne8Text9::
-	text "We are cruising"
-	line "around the world."
+	text "¡Viajamos en"
+	line "crucero por"
+	cont "todo el mundo!"
 	done
 
 _SSAnne8Text11::
-	text "Ssh! I'm a GLOBAL"
-	line "POLICE agent!"
+	text "¡Ssh! ¡Soy agente"
+	line "de POLICÍA!"
 
-	para "I'm on the trail"
-	line "of TEAM ROCKET!"
+	para "¡Estoy siguiendo"
+	line "la pista del"
+	cont "TEAM ROCKET!"
 	done
+

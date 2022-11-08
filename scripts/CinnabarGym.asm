@@ -24,7 +24,7 @@ CinnabarGymScript_75759:
 	jp LoadGymLeaderAndCityName
 
 .CityName:
-	db "CINNABAR ISLAND@"
+	db "ISLA CANELA@"
 
 .LeaderName:
 	db "BLAINE@"

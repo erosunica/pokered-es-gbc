@@ -1,37 +1,40 @@
 _Mansion3BattleText1::
-	text "This place is"
-	line "like, huge!"
+	text "Este lugar es..."
+	line "¡Gigantesco!"
 	done
 
 _Mansion3EndBattleText1::
-	text "Ayah!"
+	text_start
+	line "¡Ayah!"
 	prompt
 
 _Mansion3AfterBattleText1::
-	text "I wonder where"
-	line "my partner went."
+	text "Me pregunto"
+	line "adónde habrá ido"
+	cont "mi compañero."
 	done
 
 _Mansion3BattleText2::
-	text "My mentor once"
-	line "lived here."
+	text "Mi maestro vivió"
+	line "aquí hace tiempo."
 	done
 
 _Mansion3EndBattleText2::
-	text "Whew!"
-	line "Overwhelming!"
+	text "¡Uau!"
+	line "¡Impresionante!"
 	prompt
 
 _Mansion3AfterBattleText2::
-	text "So, you're stuck?"
-	line "Try jumping off"
-	cont "over there!"
+	text "¿Estás bloqueado?"
+	line "¡Tírate por ahí!"
 	done
 
 _Mansion3Text5::
-	text "Diary: Feb. 6"
-	line "MEW gave birth."
+	text "Diario:"
+	line "6 de febrero."
+	cont "MEW dio a luz."
 
-	para "We named the"
-	line "newborn MEWTWO."
+	para "Llamamos al"
+	line "pequeño MEWTWO."
 	done
+

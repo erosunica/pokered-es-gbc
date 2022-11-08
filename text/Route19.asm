@@ -1,157 +1,165 @@
 _Route19BattleText1::
-	text "Have to warm up"
-	line "before my swim!"
+	text "¡Tengo que"
+	line "calentar antes"
+	cont "de nadar!"
 	done
 
 _Route19EndBattleText1::
-	text "All"
-	line "warmed up!"
+	text "¡Ya"
+	line "estoy caliente!"
 	prompt
 
 _Route19AfterBattleText1::
-	text "Thanks, kid! I'm"
-	line "ready for a swim!"
+	text "¡Gracias chico!"
+	line "¡Ya puedo nadar!"
 	done
 
 _Route19BattleText2::
-	text "Wait! You'll have"
-	line "a heart attack!"
+	text "¡Alto! ¡Te va a"
+	line "dar un ataque al"
+	cont "corazón!"
 	done
 
 _Route19EndBattleText2::
-	text "Ooh!"
-	line "That's chilly!"
+	text "¡¡Auuu!!"
+	line "¡Está helada!"
 	prompt
 
 _Route19AfterBattleText2::
-	text "Watch out for"
+	text "¡Cuidado con"
 	line "TENTACOOL!"
 	done
 
 _Route19BattleText3::
-	text "I love swimming!"
-	line "What about you?"
+	text "¡Me gusta nadar!"
+	line "¿Y a ti?"
 	done
 
 _Route19EndBattleText3::
-	text "Belly"
-	line "flop!"
+	text_start
+	line "¡Vaya planchazo!"
 	prompt
 
 _Route19AfterBattleText3::
-	text "I can beat #MON"
-	line "at swimming!"
+	text "¡Puedo ganar a"
+	line "los #MON"
+	cont "nadando!"
 	done
 
 _Route19BattleText4::
-	text "What's beyond the"
-	line "horizon?"
+	text "¿Qué hay más allá"
+	line "del horizonte?"
 	done
 
 _Route19EndBattleText4::
-	text "Glub!"
+	text "¡Glup!"
 	prompt
 
 _Route19AfterBattleText4::
-	text "I see a couple of"
-	line "islands!"
+	text "¡Veo un par"
+	line "de islas!"
 	done
 
 _Route19BattleText5::
-	text "I tried diving"
-	line "for #MON, but"
-	cont "it was a no go!"
+	text "¡Buceé en busca"
+	line "de #MON, pero"
+	cont "no vi nada!"
 	done
 
 _Route19EndBattleText5::
-	text "Help!"
+	text_start
+	line "¡Socorro!"
 	prompt
 
 _Route19AfterBattleText5::
-	text "You have to fish"
-	line "for sea #MON!"
+	text "¡Tienes que"
+	line "pescar a los"
+	cont "#MON del mar!"
 	done
 
 _Route19BattleText6::
-	text "I look at the"
-	line "sea to forget!"
+	text "¡Miro al mar"
+	line "para olvidar!"
 	done
 
 _Route19EndBattleText6::
-	text "Ooh!"
-	line "Traumatic!"
+	text "¡Oooooh!"
+	line "¡Qué traumático!"
 	prompt
 
 _Route19AfterBattleText6::
-	text "I'm looking at the"
-	line "sea to forget!"
+	text "¡Miro al mar"
+	line "para olvidar!"
 	done
 
 _Route19BattleText7::
-	text "Oh, I just love"
-	line "your ride! Can I"
-	cont "have it if I win?"
+	text "¡Oh! ¡Eso me"
+	line "gusta! ¿Me lo"
+	cont "darás si gano?"
 	done
 
 _Route19EndBattleText7::
-	text "Oh!"
-	line "I lost!"
+	text "¡Oh!"
+	line "¡He perdido!"
 	prompt
 
 _Route19AfterBattleText7::
-	text "It's still a long"
-	line "way to go to"
-	cont "SEAFOAM ISLANDS."
+	text "¡Queda un largo"
+	line "camino hasta las"
+	cont "ISLAS ESPUMA!"
 	done
 
 _Route19BattleText8::
-	text "Swimming's great!"
-	line "Sunburns aren't!"
+	text "¡Nadar es genial!"
+	line "¡Pero quemarse"
+	cont "al Sol no!"
 	done
 
 _Route19EndBattleText8::
-	text "Shocker!"
+	text_start
+	line "¡Qué horror!"
 	prompt
 
 _Route19AfterBattleText8::
-	text "My boy friend"
-	line "wanted to swim to"
-	cont "SEAFOAM ISLANDS."
+	text "Mi novio quería"
+	line "nadar hasta las"
+	cont "ISLAS ESPUMA."
 	done
 
 _Route19BattleText9::
-	text "These waters are"
-	line "treacherous!"
+	text "¡Estas aguas son"
+	line "traicioneras!"
 	done
 
 _Route19EndBattleText9::
-	text "Ooh!"
-	line "Dangerous!"
+	text "¡Ooh!"
+	line "¡Peligroso!"
 	prompt
 
 _Route19AfterBattleText9::
-	text "I got a cramp!"
-	line "Glub, glub..."
+	text "¡Me ha dado un"
+	line "calambre! ¡Glup!"
 	done
 
 _Route19BattleText10::
-	text "I swam here, but"
-	line "I'm tired."
+	text "Nadé hasta aquí,"
+	line "pero ya me cansé."
 	done
 
 _Route19EndBattleText10::
-	text "I'm"
-	line "exhausted..."
+	text "Estoy"
+	line "agotada..."
 	prompt
 
 _Route19AfterBattleText10::
-	text "LAPRAS is so big,"
-	line "it must keep you"
-	cont "dry on water."
+	text "LAPRAS es enorme,"
+	line "sube encima de él"
+	cont "y no te mojarás."
 	done
 
 _Route19Text11::
-	text "SEA ROUTE 19"
-	line "FUCHSIA CITY -"
-	cont "SEAFOAM ISLANDS"
+	text "RUTA MARINA 19:"
+	line "CIUDAD FUCSIA -"
+	cont "ISLAS ESPUMA"
 	done
+

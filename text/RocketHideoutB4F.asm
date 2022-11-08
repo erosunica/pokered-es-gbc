@@ -1,74 +1,83 @@
 _RocketHideout4Text_4557a::
-	text "So! I must say, I"
-	line "am impressed you"
-	cont "got here!"
+	text "¡Mmm! ¡Estoy muy"
+	line "impresionado de"
+	cont "que hayas llegado"
+	cont "hasta aquí!"
 	done
 
 _RocketHideout4Text_4557f::
-	text "WHAT!"
-	line "This cannot be!"
+	text "¿QUÉ?"
+	line "¡Esto es"
+	cont "imposible!"
 	prompt
 
 _RocketHideout4Text_45584::
-	text "I see that you"
-	line "raise #MON"
-	cont "with utmost care."
+	text "Ya veo que has"
+	line "entrenado a tus"
+	cont "#MON con"
+	cont "mucho cuidado."
 
-	para "A child like you"
-	line "would never"
-	cont "understand what I"
-	cont "hope to achieve."
+	para "¡Un niño como tú"
+	line "jamás entendería"
+	cont "cuáles son mis"
+	cont "planes!"
 
-	para "I shall step"
-	line "aside this time!"
+	para "¡En esta ocasión"
+	line "te dejaré pasar!"
 
-	para "I hope we meet"
-	line "again..."
+	para "Espero que nos"
+	line "volvamos a ver."
 	done
 
 _RocketHideout4BattleText2::
-	text "I know you! You"
-	line "ruined our plans"
-	cont "at MT.MOON!"
+	text "¡Te conozco! ¡Tú"
+	line "arruinaste"
+	cont "nuestros planes"
+	cont "en MT. MOON!"
 	done
 
 _RocketHideout4EndBattleText2::
-	text "Burned"
-	line "again!"
+	text_start
+	line "¡Chamuscado"
+	cont "otra vez!"
 	prompt
 
 _RocketHide4AfterBattleText2::
-	text "Do you have"
-	line "something against"
+	text "¿Tienes algo"
+	line "en contra del"
 	cont "TEAM ROCKET?"
 	done
 
 _RocketHideout4BattleText3::
-	text "How can you not"
-	line "see the beauty of"
-	cont "our evil?"
+	text "¿Acaso no ves"
+	line "la belleza de"
+	cont "nuestros actos"
+	cont "malvados?"
 	done
 
 _RocketHideout4EndBattleText3::
-	text "Ayaya!"
+	text "¡Ayayay!"
 	prompt
 
 _RocketHide4AfterBattleText3::
-	text "BOSS! I'm sorry I"
-	line "failed you!"
+	text "¡JEFE! ¡Siento"
+	line "haberle fallado!"
 	done
 
 _RocketHideout4BattleText4::
-	text "The elevator"
-	line "doesn't work? Who"
-	cont "has the LIFT KEY?"
+	text "¿No funciona el"
+	line "ascensor? ¿Quién"
+	cont "tiene la LLAVE"
+	cont "del ASCENSOR?"
 	done
 
 _RocketHideout4EndBattleText4::
-	text "No!"
+	text "¡No!"
 	prompt
 
 _RocketHideout4Text_455ec::
-	text "Oh no! I dropped"
-	line "the LIFT KEY!"
+	text "¡Oh no! ¡He"
+	line "perdido la LLAVE"
+	cont "del ASCENSOR!"
 	done
+

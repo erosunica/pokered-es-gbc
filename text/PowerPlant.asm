@@ -1,7 +1,8 @@
 _VoltorbBattleText::
-	text "Bzzzt!"
+	text "¡Bzzzt!"
 	done
 
 _ZapdosBattleText::
-	text "Gyaoo!@"
+	text "¡Zap Zap!@"
 	text_end
+

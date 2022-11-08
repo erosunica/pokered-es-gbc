@@ -1,123 +1,137 @@
 _ViridianForestText1::
-	text "I came here with"
-	line "some friends!"
+	text "¡Vine aquí con"
+	line "unos amigos!"
 
-	para "They're out for"
-	line "#MON fights!"
+	para "¡Van en busca"
+	line "de peleas de"
+	cont "#MON!"
 	done
 
 _ViridianForestBattleText1::
-	text "Hey! You have"
-	line "#MON! Come on!"
-	cont "Let's battle'em!"
+	text "¡Eh! ¡Tienes"
+	line "#MON! ¡Sí!"
+	cont "¡Al ataque!"
 	done
 
 _ViridianForestEndBattleText1::
-	text "No!"
-	line "CATERPIE can't"
-	cont "cut it!"
+	text "¡No!"
+	line "¡CATERPIE no"
+	cont "pudo cortarlo!"
 	prompt
 
 _ViridianFrstAfterBattleText1::
-	text "Ssh! You'll scare"
-	line "the bugs away!"
+	text "¡Ssh! ¡Vas a"
+	line "espantar a"
+	cont "los bichos!..."
 	done
 
 _ViridianForestBattleText2::
-	text "Yo! You can't jam"
-	line "out if you're a"
-	cont "#MON trainer!"
+	text "¡Eh! ¡Debes"
+	line "ser disciplinado"
+	cont "para ser un"
+	cont "entrenador de"
+	cont "#MON!"
 	done
 
 _ViridianForestEndBattleText2::
-	text "Huh?"
-	line "I ran out of"
-	cont "#MON!"
+	text "¡Ups!"
+	line "¡No me quedan"
+	cont "más #MON!"
 	prompt
 
 _ViridianFrstAfterBattleText2::
-	text "Darn! I'm going"
-	line "to catch some"
-	cont "stronger ones!"
+	text "¡Maldición! "
+	line "¡Voy a atrapar"
+	cont "unos más fuertes!"
 	done
 
 _ViridianForestBattleText3::
-	text "Hey, wait up!"
-	line "What's the hurry?"
+	text "¡Eh, espera!"
+	line "¿Por qué tienes"
+	cont "tanta prisa?"
 	done
 
 _ViridianForestEndBattleText3::
-	text "I"
-	line "give! You're good"
-	cont "at this!"
+	text_start
+	line "¡Me rindo! ¡Eres"
+	cont "demasiado bueno!"
 	prompt
 
 _ViridianFrstAfterBattleText3::
-	text "Sometimes, you"
-	line "can find stuff on"
-	cont "the ground!"
+	text "¡A veces puedes"
+	line "encontrar cosas"
+	cont "en el suelo!"
 
-	para "I'm looking for"
-	line "the stuff I"
-	cont "dropped!"
+	para "¡Estoy buscando"
+	line "los objetos que"
+	cont "dejé caer!"
 	done
 
 _ViridianForestText8::
-	text "I ran out of #"
-	line "BALLs to catch"
-	cont "#MON with!"
+	text "¡Me quedé sin"
+	line "# BALL con"
+	cont "las que atrapar a"
+	cont "los #MON!"
 
-	para "You should carry"
-	line "extras!"
+	para "¡Deberías llevar"
+	line "algunas extra!"
 	done
 
 _ViridianForestText9::
-	text "TRAINER TIPS"
+	text "PISTAS ENTRENADOR"
 
-	para "If you want to"
-	line "avoid battles,"
-	cont "stay away from"
-	cont "grassy areas!"
+	para "Si quieres evitar"
+	line "los combates,"
+	cont "¡aléjate de las"
+	cont "zonas de hierba!"
 	done
 
 _ViridianForestText10::
-	text "For poison, use"
-	line "ANTIDOTE! Get it"
-	cont "at #MON MARTs!"
-	done
-
-_ViridianForestText11::
-	text "TRAINER TIPS"
-
-	para "Contact PROF.OAK"
-	line "via PC to get"
-	cont "your #DEX"
-	cont "evaluated!"
-	done
-
-_ViridianForestText12::
-	text "TRAINER TIPS"
-
-	para "No stealing of"
-	line "#MON from"
-	cont "other trainers!"
-	cont "Catch only wild"
+	text "¡Usa ANTÍDOTO"
+	line "contra el veneno!"
+	cont "¡Lo conseguirás"
+	cont "en las TIENDAS"
 	cont "#MON!"
 	done
 
+_ViridianForestText11::
+	text "PISTAS ENTRENADOR"
+
+	para "¡Para evaluar tu"
+	line "#DEX, llama"
+	cont "al PROF. OAK"
+	cont "vía PC!"
+	done
+
+_ViridianForestText12::
+	text "PISTAS ENTRENADOR"
+
+	para "¡No robes los"
+	line "#MON"
+	cont "de otros"
+	cont "entrenadores!"
+	cont "¡Captura sólo a"
+	cont "los #MON"
+	cont "salvajes!"
+	done
+
 _ViridianForestText13::
-	text "TRAINER TIPS"
+	text "PISTAS ENTRENADOR"
 
-	para "Weaken #MON"
-	line "before attempting"
-	cont "capture!"
+	para "¡Debilita a los"
+	line "#MON antes"
+	cont "de intentar"
+	cont "capturarlos!"
 
-	para "When healthy,"
-	line "they may escape!"
+	para "¡Si están"
+	line "fuertes,"
+	cont "podrían escapar!"
 	done
 
 _ViridianForestText14::
-	text "LEAVING"
-	line "VIRIDIAN FOREST"
-	cont "PEWTER CITY AHEAD"
+	text "SALIENDO DEL"
+	line "BOSQUE VERDE. LA"
+	cont "CIUDAD PLATEADA"
+	cont "ESTÁ ENFRENTE."
 	done
+

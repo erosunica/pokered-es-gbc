@@ -1,67 +1,70 @@
 _Route24Text_51510::
-	text "Congratulations!"
-	line "You beat our 5"
-	cont "contest trainers!@"
+	text "¡Enhorabuena!"
+	line "¡Ganaste a"
+	cont "nuestros 5"
+	cont "entrenadores!@"
 	text_end
 
 _Route24Text_51515::
 	text_start
 
-	para "You just earned a"
-	line "fabulous prize!"
+	para "¡Has ganado un"
+	line "premio fabuloso!"
 	prompt
 
 _Route24Text_5151a::
-	text "<PLAYER> received"
-	line "a @"
+	text "¡<PLAYER> obtuvo:"
+	line "@"
 	text_ram wcf4b
 	text "!@"
 	text_end
 
 _Route24Text_51521::
-	text "You don't have"
-	line "any room!"
+	text "¡No te queda"
+	line "sitio!"
 	done
 
 _Route24Text_51526::
-	text "By the way, would"
-	line "you like to join"
+	text "¿Te gustaría"
+	line "unirte al"
 	cont "TEAM ROCKET?"
 
-	para "We're a group"
-	line "dedicated to evil"
-	cont "using #MON!"
+	para "¡Somos un grupo"
+	line "dedicado a hacer"
+	cont "maldades con los"
+	cont "#MON!"
 
-	para "Want to join?"
+	para "¿Te interesa?"
 
-	para "Are you sure?"
+	para "¿Estás seguro?"
 
-	para "Come on, join us!"
+	para "Únete a nosotros."
 
-	para "I'm telling you"
-	line "to join!"
+	para "¡Ya te he dicho"
+	line "que te unas a"
+	cont "nosotros!"
 
-	para "OK, you need"
-	line "convincing!"
+	para "Necesitas que"
+	line "te convenza."
 
-	para "I'll make you an"
-	line "offer you can't"
-	cont "refuse!"
+	para "¡Te haré una"
+	line "oferta que no"
+	cont "podrás rechazar!"
 	done
 
 _Route24Text_5152b::
-	text "Arrgh!"
-	line "You are good!"
+	text "¡Arrgh!"
+	line "¡Eres bueno!"
 	prompt
 
 _Route24Text_51530::
-	text "With your ability,"
-	line "you could become"
-	cont "a top leader in"
+	text "¡Con tu habilidad"
+	line "podrías ser uno"
+	cont "de los jefes del"
 	cont "TEAM ROCKET!"
 	done
 
 _Route24BattleText1::
-	text "I saw your feat"
-	line "from the grass!"
+	text "¡Vi tu hazaña"
+	line "desde la hierba!"
 	done

@@ -1,195 +1,212 @@
 _Route17BattleText1::
-	text "There's no money"
-	line "in fighting kids!"
+	text "¡No hay dinero"
+	line "por luchar contra"
+	cont "los niños!"
 	done
 
 _Route17EndBattleText1::
-	text "Burned"
-	line "out!"
+	text_start
+	line "¡Chamuscado!"
 	prompt
 
 _Route17AfterBattleText1::
-	text "Good stuff is"
-	line "lying around on"
-	cont "CYCLING ROAD!"
+	text "¡Por el CAMINO de"
+	line "las BICIS hay"
+	cont "buenas cosas!"
 	done
 
 _Route17BattleText2::
-	text "What do you want,"
-	line "kiddo?"
+	text "¿Qué quieres"
+	line "chaval?"
 	done
 
 _Route17EndBattleText2::
-	text "Whoo!"
+	text "¡Uauuu!"
 	prompt
 
 _Route17AfterBattleText2::
-	text "I could belly-"
-	line "bump you outta"
-	cont "here!"
+	text "¡Podría echarte"
+	line "de aquí de un"
+	cont "barrigazo!"
 	done
 
 _Route17BattleText3::
-	text "You heading to"
-	line "FUCHSIA?"
+	text "¿Te diriges a la"
+	line "CIUDAD FUCSIA?"
 	done
 
 _Route17EndBattleText3::
-	text "Crash and"
-	line "burn!"
+	text_start
+	line "¡Destrozado"
+	cont "y vencido!"
 	prompt
 
 _Route17AfterBattleText3::
-	text "I love racing"
-	line "downhill!"
+	text "Me gusta pedalear"
+	line "cuesta abajo."
 	done
 
 _Route17BattleText4::
-	text "We're BIKERs!"
-	line "Highway stars!"
+	text "¡Somos los"
+	line "MOTORISTAS!"
+	cont "¡Las estrellas"
+	cont "de la autopista!"
 	done
 
 _Route17EndBattleText4::
-	text "Smoked!"
+	text_start
+	line "¡Ahumado!"
 	prompt
 
 _Route17AfterBattleText4::
-	text "Are you looking"
-	line "for adventure?"
+	text "¿Vas en busca"
+	line "de aventuras?"
 	done
 
 _Route17BattleText5::
-	text "Let VOLTORB"
-	line "electrify you!"
+	text "¡Deja que VOLTORB"
+	line "te electrocute!"
 	done
 
 _Route17EndBattleText5::
-	text "Grounded"
-	line "out!"
+	text_start
+	line "¡Electrocutado!"
 	prompt
 
 _Route17AfterBattleText5::
-	text "I got my VOLTORB"
-	line "at the abandoned"
-	cont "POWER PLANT."
+	text "¡Atrapé a mis"
+	line "VOLTORB en la"
+	cont "CENTRAL de"
+	cont "ENERGÍA"
+	cont "abandonada!"
 	done
 
 _Route17BattleText6::
-	text "My #MON won't"
-	line "evolve! Why?"
+	text "¡Mi #MON no"
+	line "evoluciona!"
+	cont "¿Por qué?"
 	done
 
 _Route17EndBattleText6::
-	text "Why,"
-	line "you!"
+	text "¿Qué?"
+	line "¡Tú!"
 	prompt
 
 _Route17AfterBattleText6::
-	text "Maybe some #MON"
-	line "need element"
-	cont "STONEs to evolve."
+	text "Puede que ciertos"
+	line "#MON necesiten"
+	cont "PIEDRAS para"
+	cont "evolucionar."
 	done
 
 _Route17BattleText7::
-	text "I need a little"
-	line "exercise!"
+	text "¡Necesito un poco"
+	line "de ejercicio!"
 	done
 
 _Route17EndBattleText7::
-	text "Whew!"
-	line "Good workout!"
+	text_start
+	line "¡Ufff! ¡Qué buen"
+	cont "entrenamiento!"
 	prompt
 
 _Route17AfterBattleText7::
-	text "I'm sure I lost"
-	line "weight there!"
+	text "¡Seguro que he"
+	line "perdido peso!"
 	done
 
 _Route17BattleText8::
-	text "Be a rebel!"
+	text "¡Sé un rebelde!"
 	done
 
 _Route17EndBattleText8::
-	text "Aaaargh!"
+	text "¡Aaaargh!"
 	prompt
 
 _Route17AfterBattleText8::
-	text "Be ready to fight"
-	line "for your beliefs!"
+	text "¡Prepárate para"
+	line "luchar por tus"
+	cont "ideas!"
 	done
 
 _Route17BattleText9::
-	text "Nice BIKE!"
-	line "How's it handle?"
+	text "¡Bonita BICI!"
+	line "¿Cómo se conduce?"
 	done
 
 _Route17EndBattleText9::
-	text "Shoot!"
+	text_start
+	line "¡Derrotado!"
 	prompt
 
 _Route17AfterBattleText9::
-	text "The slope makes"
-	line "it hard to steer!"
+	text "¡La pendiente"
+	line "dificulta la"
+	cont "conducción!"
 	done
 
 _Route17BattleText10::
-	text "Get lost kid!"
-	line "I'm bushed!"
+	text "¡Lárgate chaval!"
+	line "¡Estoy agotado!"
 	done
 
 _Route17EndBattleText10::
-	text "Are you"
-	line "satisfied?"
+	text_start
+	line "¿Estás contento?"
 	prompt
 
 _Route17AfterBattleText10::
-	text "I need to catch"
-	line "a few Zs!"
+	text "¡Tengo que"
+	line "recuperar sueño"
+	cont "atrasado!"
 	done
 
 _Route17Text11::
-	text "It's a notice!"
+	text "¡Un aviso!"
 
-	para "Watch out for"
-	line "discarded items!"
+	para "¡Cuidado con las"
+	line "cosas tiradas!"
 	done
 
 _Route17Text12::
-	text "TRAINER TIPS"
+	text "PISTAS ENTRENADOR"
 
-	para "All #MON are"
-	line "unique."
+	para "Todo #MON"
+	line "es único."
 
-	para "Even #MON of"
-	line "the same type and"
-	cont "level grow at"
-	cont "different rates."
+	para "Hasta los #MON"
+	line "del mismo tipo y"
+	cont "nivel crecen a"
+	cont "diferente ritmo."
 	done
 
 _Route17Text13::
-	text "TRAINER TIPS"
+	text "PISTAS ENTRENADOR"
 
-	para "Press the A or B"
-	line "Button to stay in"
-	cont "place while on a"
-	cont "slope."
+	para "Pulsa el botón A"
+	line "o B para no"
+	cont "moverte sobre una"
+	cont "pendiente."
 	done
 
 _Route17Text14::
-	text "ROUTE 17"
-	line "CELADON CITY -"
-	cont "FUCHSIA CITY"
+	text "RUTA 17:"
+	line "CIUDAD AZULONA -"
+	cont "CIUDAD FUCSIA"
 	done
 
 _Route17Text15::
-	text "It's a notice!"
+	text "¡Un aviso!"
 
-	para "Don't throw the"
-	line "game, throw #"
-	cont "BALLs instead!"
+	para "¡No tires el"
+	line "juego, en lugar"
+	cont "de eso tira"
+	cont "# BALL!"
 	done
 
 _Route17Text16::
-	text "CYCLING ROAD"
-	line "Slope ends here!"
+	text "CAMINO DE BICIS"
+	line "¡La pendiente"
+	cont "termina aquí!"
 	done
+

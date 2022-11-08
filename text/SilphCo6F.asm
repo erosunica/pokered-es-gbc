@@ -1,107 +1,115 @@
 _SilphCo6Text_1a24a::
-	text "The ROCKETs came"
-	line "and took over the"
-	cont "building!"
+	text "¡Los ROCKET"
+	line "vinieron y se"
+	cont "apoderaron de"
+	cont "todo el edificio!"
 	done
 
 _SilphCo6Text_1a24f::
-	text "Well, better get"
-	line "back to work!"
+	text "¡Mejor volver"
+	line "al trabajo!"
 	done
 
 _SilphCo6Text_1a261::
-	text "Oh dear, oh dear."
-	line "Help me please!"
+	text "¡Oh, por favor!"
+	line "¡Ayúdame!"
 	done
 
 _SilphCo6Text_1a266::
-	text "We got engaged!"
-	line "Heheh!"
+	text "¡Somos novios!"
+	line "¡Jaja!"
 	done
 
 _SilphCo6Text_1a278::
-	text "Look at him! He's"
-	line "such a coward!"
+	text "¡Mírale! ¡Es"
+	line "tan cobarde!"
 	done
 
 _SilphCo6Text_1a27d::
-	text "I feel so sorry"
-	line "for him, I have"
-	cont "to marry him!"
+	text "¡Me daba tanta"
+	line "pena, que decidí"
+	cont "casarme con él!"
 	done
 
 _SilphCo6Text_1a28f::
-	text "TEAM ROCKET is"
-	line "trying to conquer"
-	cont "the world with"
+	text "¡El TEAM ROCKET"
+	line "quiere conquistar"
+	cont "el mundo con sus"
 	cont "#MON!"
 	done
 
 _SilphCo6Text_1a294::
-	text "TEAM ROCKET ran"
-	line "because of you!"
+	text "¡El TEAM ROCKET"
+	line "se escapó por"
+	cont "tu culpa!"
 	done
 
 _SilphCo6Text_1a2a6::
-	text "They must have"
-	line "targeted SILPH"
-	cont "for our #MON"
-	cont "products."
+	text "SILPH parece"
+	line "interesarles"
+	cont "por nuestros"
+	cont "productos"
+	cont "#MON."
 	done
 
 _SilphCo6Text_1a2ab::
-	text "Come work for"
-	line "SILPH when you"
-	cont "get older!"
+	text "¡Ven a trabajar"
+	line "para SILPH cuando"
+	cont "seas mayor!"
 	done
 
 _SilphCo6BattleText2::
-	text "I am one of the 4"
-	line "ROCKET BROTHERS!"
+	text "¡Soy uno de los 4"
+	line "HERMANOS ROCKET!"
 	done
 
 _SilphCo6EndBattleText2::
-	text "Flame"
-	line "out!"
+	text_start
+	line "¡Chamuscado!"
 	prompt
 
 _SilphCo6AfterBattleText2::
-	text "No matter!"
-	line "My brothers will"
-	cont "avenge me!"
+	text "¡No importa!"
+	line "¡Mis hermanos me"
+	cont "vengarán!"
 	done
 
 _SilphCo6BattleText3::
-	text "That rotten"
-	line "PRESIDENT!"
+	text "¡Ese podrido"
+	line "PRESIDENTE!"
 
-	para "He shouldn't have"
-	line "sent me to the"
-	cont "TIKSI BRANCH!"
+	para "¡No debía haberme"
+	line "enviado a la"
+	cont "SUCURSAL TIKSI!"
 	done
 
 _SilphCo6EndBattleText3::
-	text "Shoot!"
+	text_start
+	line "¡Estoy acabado!"
 	prompt
 
 _SilphCo6AfterBattleText3::
-	text "TIKSI BRANCH?"
-	line "It's in Russian"
-	cont "no man's land!"
+	text "¿La SUCURSAL"
+	line "TIKSI? ¡Está"
+	cont "en mitad de"
+	cont "la nada!"
 	done
 
 _SilphCo6BattleText4::
-	text "You dare betray"
-	line "TEAM ROCKET?"
+	text "¿Te atreviste a"
+	line "traicionar al"
+	cont "TEAM ROCKET?"
 	done
 
 _SilphCo6EndBattleText4::
-	text "You"
-	line "traitor!"
+	text "¡Eres"
+	line "un traidor!"
 	prompt
 
 _SilphCo6AfterBattleText4::
-	text "If you stand for"
-	line "justice, you"
-	cont "betray evil!"
+	text "¡Si apoyas"
+	line "la justicia,"
+	cont "traicionarás"
+	cont "al malvado!"
 	done
+

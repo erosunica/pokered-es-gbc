@@ -1,156 +1,171 @@
 _Route20BattleText1::
-	text "The water is"
-	line "shallow here."
+	text "El agua es poco"
+	line "profunda aquí."
 	done
 
 _Route20EndBattleText1::
-	text "Splash!"
+	text_start
+	line "¡Splash!"
 	prompt
 
 _Route20AfterBattleText1::
-	text "I wish I could"
-	line "ride my #MON."
+	text "¡Ojalá pudiera"
+	line "subirme a mi"
+	cont "#MON!"
 	done
 
 _Route20BattleText2::
-	text "SEAFOAM is a"
-	line "quiet getaway!"
+	text "¡Las ISLAS ESPUMA"
+	line "son una fácil"
+	cont "salida!"
 	done
 
 _Route20EndBattleText2::
-	text "Quit it!"
+	text_start
+	line "¡Déjalo ya!"
 	prompt
 
 _Route20AfterBattleText2::
-	text "There's a huge"
-	line "cavern underneath"
-	cont "this island."
+	text "Hay una enorme"
+	line "caverna debajo"
+	cont "de esta isla."
 	done
 
 _Route20BattleText3::
-	text "I love floating"
-	line "with the fishes!"
+	text "¡Me gusta flotar"
+	line "con los peces!"
 	done
 
 _Route20EndBattleText3::
-	text "Yowch!"
+	text_start
+	line "¡Auchh!"
 	prompt
 
 _Route20AfterBattleText3::
-	text "Want to float"
-	line "with me?"
+	text "¿Quieres flotar"
+	line "conmigo?"
 	done
 
 _Route20BattleText4::
-	text "Are you on"
-	line "vacation too?"
+	text "¿También estás"
+	line "de vacaciones?"
 	done
 
 _Route20EndBattleText4::
-	text "No"
-	line "mercy at all!"
+	text_start
+	line "¡Sin piedad!"
 	prompt
 
 _Route20AfterBattleText4::
-	text "SEAFOAM used to"
-	line "be one island!"
+	text "¡Las ISLAS ESPUMA"
+	line "solían ser una"
+	cont "sola isla!"
 	done
 
 _Route20BattleText5::
-	text "Check out my buff"
-	line "physique!"
+	text "¡Mira que"
+	line "cuerpazo tengo!"
 	done
 
 _Route20EndBattleText5::
-	text "Wimpy!"
+	text_start
+	line "¡Qué canijo!"
 	prompt
 
 _Route20AfterBattleText5::
-	text "I should've been"
-	line "buffing up my"
-	cont "#MON, not me!"
+	text "¡Debería haberte"
+	line "mostrado a mis"
+	cont "#MON!"
 	done
 
 _Route20BattleText6::
-	text "Why are you"
-	line "riding a #MON?"
-	cont "Can't you swim?"
+	text "¿Por qué te has"
+	line "subido a un"
+	cont "#MON?"
+	cont "¿No sabes nadar?"
 	done
 
 _Route20EndBattleText6::
-	text "Ouch!"
-	line "Torpedoed!"
+	text "¡Auch!"
+	line "¡Fracasé!"
 	prompt
 
 _Route20AfterBattleText6::
-	text "Riding a #MON"
-	line "sure looks fun!"
+	text "¡Subirse a un"
+	line "#MON es"
+	cont "muy divertido!"
 	done
 
 _Route20BattleText7::
-	text "I rode my bird"
-	line "#MON here!"
+	text "¡Me subí en mi"
+	line "pájaro #MON!"
 	done
 
 _Route20EndBattleText7::
-	text "Oh"
-	line "no!"
+	text_start
+	line "¡Oh no!"
 	prompt
 
 _Route20AfterBattleText7::
-	text "My birds can't"
-	line "FLY me back!"
+	text "¡Mis pájaros no"
+	line "pueden traerme"
+	cont "VOLANDO!"
 	done
 
 _Route20BattleText8::
-	text "My boy friend gave"
-	line "me big pearls!"
+	text "¡Mi novio me dio"
+	line "unas perlas muy"
+	cont "grandes!"
 	done
 
 _Route20EndBattleText8::
-	text "Don't"
-	line "touch my pearls!"
+	text "¡No toques"
+	line "mis perlas!"
 	prompt
 
 _Route20AfterBattleText8::
-	text "Will my pearls"
-	line "grow bigger"
-	cont "inside CLOYSTER?"
+	text "¿Crecerán más"
+	line "mis perlas dentro"
+	cont "de un CLOYSTER?"
 	done
 
 _Route20BattleText9::
-	text "I swam here from"
-	line "CINNABAR ISLAND!"
+	text "¡Nadé hasta aquí"
+	line "desde la ISLA"
+	cont "CANELA!"
 	done
 
 _Route20EndBattleText9::
-	text "I'm"
-	line "so disappointed!"
+	text_start
+	line "¡Estoy tan"
+	cont "decepcionada!"
 	prompt
 
 _Route20AfterBattleText9::
-	text "#MON have"
-	line "taken over an"
-	cont "abandoned mansion"
-	cont "on CINNABAR!"
+	text "¡Los #MON"
+	line "invadieron una"
+	cont "casa abandonada"
+	cont "en ISLA CANELA!"
 	done
 
 _Route20BattleText10::
-	text "CINNABAR, in the"
-	line "west, has a LAB"
-	cont "for #MON."
+	text "En ISLA CANELA,"
+	line "al oeste, hay un"
+	cont "LABORATORIO"
+	cont "#MON."
 	done
 
 _Route20EndBattleText10::
-	text "Wait!"
+	text "¡Espera!"
 	prompt
 
 _Route20AfterBattleText10::
-	text "CINNABAR is a "
-	line "volcanic island!"
+	text "¡La ISLA CANELA"
+	line "es volcánica!"
 	done
 
 _Route20Text12::
 _Route20Text11::
-	text "SEAFOAM ISLANDS"
+	text "ISLAS ESPUMA"
 	done
+

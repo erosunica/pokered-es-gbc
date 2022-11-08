@@ -1,120 +1,127 @@
 _Route16BattleText1::
-	text "What do you want?"
+	text "¿Qué quieres?"
 	done
 
 _Route16EndBattleText1::
-	text "Don't you"
-	line "dare laugh!"
+	text "¡No"
+	line "oses reírte!"
 	prompt
 
 _Route16AfterBattleText1::
-	text "We like just"
-	line "hanging here,"
-	cont "what's it to you?"
+	text "Nos gusta andar"
+	line "por aquí."
+	cont "¿Y a ti?"
 	done
 
 _Route16BattleText2::
-	text "Nice BIKE!"
-	line "Hand it over!"
+	text "¡Bonita BICI!"
+	line "¡Dámela!"
 	done
 
 _Route16EndBattleText2::
-	text "Knock"
-	line "out!"
+	text "¡Fuera"
+	line "de combate!"
 	prompt
 
 _Route16AfterBattleText2::
-	text "Forget it, who"
-	line "needs your BIKE!"
+	text "¡Olvídalo, nadie"
+	line "necesita tu BICI!"
 	done
 
 _Route16BattleText3::
-	text "Come out and play,"
-	line "little mouse!"
+	text "¡Baja de ahí y"
+	line "lucha, pequeñajo!"
 	done
 
 _Route16EndBattleText3::
-	text "You"
-	line "little rat!"
+	text "¡Eres una"
+	line "pequeña rata!"
 	prompt
 
 _Route16AfterBattleText3::
-	text "I hate losing!"
-	line "Get away from me!"
+	text "¡Odio perder! ¡No"
+	line "te acerques a mí!"
 	done
 
 _Route16BattleText4::
-	text "Hey, you just"
-	line "bumped me!"
+	text "¡Oye! ¡Me has"
+	line "golpeado!"
 	done
 
 _Route16EndBattleText4::
-	text "Kaboom!"
+	text_start
+	line "¡Cataplum!"
 	prompt
 
 _Route16AfterBattleText4::
-	text "You can also get"
-	line "to FUCHSIA from"
-	cont "VERMILION using a"
-	cont "coastal road."
+	text "También puedes"
+	line "llegar a FUCSIA"
+	cont "desde CARMÍN por"
+	cont "la costa."
 	done
 
 _Route16BattleText5::
-	text "I'm feeling"
-	line "hungry and mean!"
+	text "¡Estoy hambriento"
+	line "y furioso!"
 	done
 
 _Route16EndBattleText5::
-	text "Bad,"
-	line "bad, bad!"
+	text "¡Mal,"
+	line "mal, muy mal!"
 	prompt
 
 _Route16AfterBattleText5::
-	text "I like my #MON"
-	line "ferocious! They"
-	cont "tear up enemies!"
+	text "¡Me encanta mi"
+	line "fiero #MON!"
+	cont "¡Despedaza"
+	cont "a mis enemigos!"
 	done
 
 _Route16BattleText6::
-	text "Sure, I'll go!"
+	text "¡Claro que iré!"
 	done
 
 _Route16EndBattleText6::
-	text "Don't make"
-	line "me mad!"
+	text "¡No me"
+	line "enfurezcas!"
 	prompt
 
 _Route16AfterBattleText6::
-	text "I like harassing"
-	line "people with my"
-	cont "vicious #MON!"
+	text "¡Me encanta"
+	line "atormentar a la"
+	cont "gente con mis"
+	cont "malvados #MON!"
 	done
 
 _Route16Text7::
-	text "A sleeping #MON"
-	line "blocks the way!"
+	text "¡Un #MON"
+	line "dormido bloquea"
+	cont "el camino!"
 	done
 
 _Route16Text10::
-	text "SNORLAX woke up!"
+	text "¡SNORLAX se"
+	line "despertó!"
 
-	para "It attacked in a"
-	line "grumpy rage!"
+	para "¡Se enfadó mucho"
+	line "y ataca furioso!"
 	done
 
 _Route16Text11::
-	text "With a big yawn,"
-	line "SNORLAX returned"
-	cont "to the mountains!"
+	text "¡Tras un gran"
+	line "bostezo, SNORLAX"
+	cont "regresó a las"
+	cont "montañas!"
 	done
 
 _Route16Text8::
-	text "Enjoy the slope!"
-	line "CYCLING ROAD"
+	text "¡Buen descenso!"
+	line "CAMINO BICIS"
 	done
 
 _Route16Text9::
-	text "ROUTE 16"
-	line "CELADON CITY -"
-	cont "FUCHSIA CITY"
+	text "RUTA 16:"
+	line "CIUDAD AZULONA -"
+	cont "CIUDAD FUCSIA"
 	done
+

@@ -1,13 +1,14 @@
 _SchoolText1::
-	text "Whew! I'm trying"
-	line "to memorize all"
-	cont "my notes."
+	text "Estoy intentando"
+	line "memorizar todas"
+	cont "mis notas."
 	done
 
 _SchoolText2::
-	text "Okay!"
+	text "¡Muy bien!"
 
-	para "Be sure to read"
-	line "the blackboard"
-	cont "carefully!"
+	para "¡No olvides leer"
+	line "la pizarra con"
+	cont "mucha atención!"
 	done
+

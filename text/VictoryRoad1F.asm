@@ -1,31 +1,34 @@
 _VictoryRoad1BattleText1::
-	text "I wonder if you"
-	line "are good enough"
-	cont "for me!"
+	text "¡Me pregunto si"
+	line "eres lo bastante"
+	cont "bueno para mí!"
 	done
 
 _VictoryRoad1EndBattleText1::
-	text "I"
-	line "lost out!"
+	text "¡He"
+	line "perdido!"
 	prompt
 
 _VictoryRoad1AfterBattleText1::
-	text "I never wanted to"
-	line "lose to anybody!"
+	text "¡A mí no me"
+	line "gusta perder!"
 	done
 
 _VictoryRoad1BattleText2::
-	text "I can see you're"
-	line "good! Let me see"
-	cont "exactly how good!"
+	text "¡Ya veo que eres"
+	line "bueno! ¡Veamos"
+	cont "exactamente cómo"
+	cont "de bueno!"
 	done
 
 _VictoryRoad1EndBattleText2::
-	text "I"
-	line "had a chance..."
+	text_start
+	line "Tuve una"
+	cont "oportunidad..."
 	prompt
 
 _VictoryRoad1AfterBattleText2::
-	text "I concede, you're"
-	line "better than me!"
+	text "¡Lo admito, eres"
+	line "mejor que yo!"
 	done
+

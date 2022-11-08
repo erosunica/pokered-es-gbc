@@ -1,27 +1,29 @@
 _SaffronHouse1Text1::
-	text "Thank you for"
-	line "writing. I hope"
-	cont "to see you soon!"
+	text "Gracias por"
+	line "escribir. ¡Espero"
+	cont "verte pronto!"
 
-	para "Hey! Don't look"
-	line "at my letter!"
+	para "¡Oye! ¡No mires"
+	line "mi carta!"
 	done
 
 _SaffronHouse1Text2::
-	text "PIDGEY: Kurukkoo!@"
+	text "PIDGEY: ¡Pid pid!@"
 	text_end
 
 _SaffronHouse1Text3::
-	text "The COPYCAT is"
-	line "cute! I'm getting"
-	cont "her a # DOLL!"
+	text "¡La COPIONA es"
+	line "muy mona! ¡Le"
+	cont "voy a dar una"
+	cont "# MUÑECA!"
 	done
 
 _SaffronHouse1Text4::
-	text "I was given a PP"
-	line "UP as a gift."
+	text "Recibí MÁS PP"
+	line "como regalo."
 
-	para "It's used for"
-	line "increasing the PP"
-	cont "of techniques!"
+	para "¡Sirve para"
+	line "aumentar los PP"
+	cont "de los ataques!"
 	done
+

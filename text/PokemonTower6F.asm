@@ -1,61 +1,64 @@
 _PokemonTower2Text_60c1f::
-	text "The GHOST was the"
-	line "restless soul of"
-	cont "CUBONE's mother!"
+	text "¡Ese GHOST era"
+	line "el perturbado"
+	cont "espíritu de la"
+	cont "madre de CUBONE!"
 	done
 
 _PokemonTower2Text_60c24::
-	text "The mother's soul"
-	line "was calmed."
+	text "El espíritu de"
+	line "la madre descansa"
+	cont "tranquilo."
 
-	para "It departed to"
-	line "the afterlife!"
+	para "¡Y ha partido"
+	line "al más allá!"
 	done
 
 _PokemonTower6BattleText1::
-	text "Give...me..."
-	line "blood..."
+	text "Da... me..."
+	line "sangre..."
 	done
 
 _PokemonTower6EndBattleText1::
-	text "Groan!"
+	text "¡Grrr!"
 	prompt
 
 _PokemonTower6AfterBattleText1::
-	text "I feel anemic and"
-	line "weak..."
+	text "Me siento anémica"
+	line "y débil..."
 	done
 
 _PokemonTower6BattleText2::
-	text "Urff... Kwaah!"
+	text "¡Uuff... Guaa!"
 	done
 
 _PokemonTower6EndBattleText2::
-	text "Some-"
-	line "thing fell out!"
+	text "¡Algo"
+	line "se ha caído!"
 	prompt
 
 _PokemonTower6AfterBattleText2::
-	text "Hair didn't fall"
-	line "out! It was an"
-	cont "evil spirit!"
+	text "¡No me lo creo!"
+	line "¡Era un malvado"
+	cont "espíritu!"
 	done
 
 _PokemonTower6BattleText3::
-	text "Ke..ke...ke..."
-	line "ke..ke...ke!!"
+	text "¡¡¡Ki...ki..."
+	line "ki...ki...ki!!!"
 	done
 
 _PokemonTower6EndBattleText3::
-	text "Keee!"
+	text "¡Kiii!"
 	prompt
 
 _PokemonTower6AfterBattleText3::
-	text "What's going on"
-	line "here?"
+	text "¿Qué está pasando"
+	line "aquí?"
 	done
 
 _PokemonTower6Text6::
-	text "Be gone..."
-	line "Intruders..."
+	text "Fuera..."
+	line "Intrusos..."
 	done
+

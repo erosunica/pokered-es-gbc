@@ -10,7 +10,7 @@ BikeShopText1:
 	text_asm
 	CheckEvent EVENT_GOT_BICYCLE
 	jr z, .asm_260d4
-	ld hl, BikeShopText_1d82f
+	ld hl, BikeShopText_1d82f	
 	call PrintText
 	jp .Done
 .asm_260d4
@@ -79,11 +79,11 @@ BikeShopText1:
 	jp TextScriptEnd
 
 BikeShopMenuText:
-	db   "BICYCLE"
-	next "CANCEL@"
+	db   "BICICLETA"
+	next "SALIR@"
 
 BikeShopMenuPrice:
-	db "¥1000000@"
+	db "1000000¥@"
 
 BikeShopText_1d810:
 	text_far _BikeShopText_1d810

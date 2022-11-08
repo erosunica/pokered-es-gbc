@@ -1,133 +1,144 @@
 _Route11BattleText1::
-	text "Win, lose or draw!"
+	text "¡Gana, pierde o"
+	line "empata!"
 	done
 
 _Route11EndBattleText1::
-	text "Atcha!"
-	line "Didn't go my way!"
+	text "¡Vale!"
+	line "¡Has ganado!"
 	prompt
 
 _Route11AfterBattleText1::
-	text "#MON is life!"
-	line "And to live is to"
-	cont "gamble!"
+	text "¡Los #MON son"
+	line "vida! ¡Y vivir"
+	cont "es jugar!"
 	done
 
 _Route11BattleText2::
-	text "Competition! I"
-	line "can't get enough!"
+	text "¡Competición!"
+	line "¡No me canso de"
+	cont "competir!"
 	done
 
 _Route11EndBattleText2::
-	text "I had"
-	line "a chance!"
+	text "¡Tuve"
+	line "una oportunidad!"
 	prompt
 
 _Route11AfterBattleText2::
-	text "You can't be a"
-	line "coward in the"
-	cont "world of #MON!"
+	text "¡No puedes ser un"
+	line "cobarde en el"
+	cont "mundo de los"
+	cont "#MON!"
 	done
 
 _Route11BattleText3::
-	text "Let's go, but"
-	line "don't cheat!"
+	text "¡Vamos allá, pero"
+	line "no hagas trampas!"
 	done
 
 _Route11EndBattleText3::
-	text "Huh?"
-	line "That's not right!"
+	text "¿Qué?"
+	line "¡No puede ser!"
 	prompt
 
 _Route11AfterBattleText3::
-	text "I did my best! I"
-	line "have no regrets!"
+	text "¡Hice todo lo que"
+	line "pude! ¡Y no me"
+	cont "arrepiento!"
 	done
 
 _Route11BattleText4::
-	text "Careful!"
-	line "I'm laying down"
-	cont "some cables!"
+	text "¡Cuidado! ¡Estoy"
+	line "colocando unos"
+	cont "cables!"
 	done
 
 _Route11EndBattleText4::
-	text "That"
-	line "was electric!"
+	text "¡Muy"
+	line "eléctrico!"
 	prompt
 
 _Route11AfterBattleText4::
-	text "Spread the word"
-	line "to save energy!"
+	text "¡Di a todos"
+	line "que ahorren"
+	cont "energía!"
 	done
 
 _Route11BattleText5::
-	text "I just became a"
-	line "trainer! But, I"
-	cont "think I can win!"
+	text "¡Soy un nuevo"
+	line "entrenador! ¡Pero"
+	cont "creo que puedo"
+	cont "ganar!"
 	done
 
 _Route11EndBattleText5::
-	text "My"
-	line "#MON couldn't!"
+	text "¡Mis"
+	line "#MON"
+	cont "perdieron!"
 	prompt
 
 _Route11AfterBattleText5::
-	text "What do you want?"
-	line "Leave me alone!"
+	text "¿Qué quieres?"
+	line "¡Déjame en paz!"
 	done
 
 _Route11BattleText6::
-	text "Fwahaha! I have"
-	line "never lost!"
+	text "¡JAJAJA! ¡No he"
+	line "perdido nunca!"
 	done
 
 _Route11EndBattleText6::
-	text "My"
-	line "first loss!"
+	text_start
+	line "¡La primera"
+	cont "vez que pierdo!"
 	prompt
 
 _Route11AfterBattleText6::
-	text "Luck of the draw!"
-	line "Just luck!"
+	text "¡Has tenido mucha"
+	line "suerte!"
 	done
 
 _Route11BattleText7::
-	text "I have never won"
-	line "before..."
+	text "Es la primera vez"
+	line "que gano..."
 	done
 
 _Route11EndBattleText7::
-	text "I saw"
-	line "this coming..."
+	text "Lo veía"
+	line "venir..."
 	prompt
 
 _Route11AfterBattleText7::
-	text "It's just luck."
-	line "Luck of the draw."
+	text "Has tenido mucha"
+	line "suerte."
 	done
 
 _Route11BattleText8::
-	text "I'm the best in"
-	line "my class!"
+	text "¡Soy el mejor"
+	line "de mi clase!"
 	done
 
 _Route11EndBattleText8::
-	text "Darn!"
-	line "I need to make my"
-	cont "#MON stronger!"
+	text_start
+	line "¡Maldición! ¡Mis"
+	cont "#MON deben"
+	cont "ser más fuertes!"
 	prompt
 
 _Route11AfterBattleText8::
-	text "There's a fat"
-	line "#MON that"
-	cont "comes down from"
-	cont "the mountains."
+	text "Hay un gordo"
+	line "#MON que"
+	cont "baja de las"
+	cont "montañas."
 
-	para "It's strong if"
-	line "you can get it."
+	para "Es muy fuerte,"
+	line "pero primero hay"
+	cont "que atraparlo."
 	done
 
 _Route11BattleText9::
-	text "Watch out for"
-	line "live wires!"
+	text "¡Cuidado con"
+	line "esos cables!"
 	done
+

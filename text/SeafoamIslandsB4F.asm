@@ -1,14 +1,15 @@
 _ArticunoBattleText::
-	text "Gyaoo!@"
+	text "¡Ar Tic!@"
 	text_end
 
 _SeafoamIslands5Text4::
-	text "Boulders might"
-	line "change the flow"
-	cont "of water!"
+	text "¡Las ROCAS pueden"
+	line "cambiar el flujo"
+	cont "del agua!"
 	done
 
 _SeafoamIslands5Text5::
-	text "DANGER"
-	line "Fast current!"
+	text "¡PELIGRO!"
+	line "¡Rápidos!"
 	done
+

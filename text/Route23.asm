@@ -1,28 +1,30 @@
 _VictoryRoadGuardText1::
-	text "You can pass here"
-	line "only if you have"
-	cont "the @"
+	text "¡Sólo podrás"
+	line "entrar aquí si"
+	cont "tienes la"
+	cont "@"
 	text_ram wcd6d
 	text "!"
 
-	para "You don't have the"
+	para "¡Aún no tienes la"
 	line "@"
 	text_ram wcd6d
-	text " yet!"
+	text "!"
 
-	para "You have to have"
-	line "it to get to"
-	cont "#MON LEAGUE!@"
+	para "¡Debes tenerla"
+	line "para acceder a la"
+	cont "LIGA #MON!@"
 	text_end
 
 _VictoryRoadGuardText2::
-	text "You can pass here"
-	line "only if you have"
-	cont "the @"
+	text "¡Sólo podrás"
+	line "entrar aquí si"
+	cont "tienes la"
+	cont "@"
 	text_ram wcd6d
 	text "!"
 
-	para "Oh! That is the"
+	para "¡Oh! ¡Ésa es la"
 	line "@"
 	text_ram wcd6d
 	text "!@"
@@ -31,11 +33,11 @@ _VictoryRoadGuardText2::
 _VictoryRoadGuardText_513a3::
 	text_start
 
-	para "OK then! Please,"
-	line "go right ahead!"
+	para "¡Muy bien!"
+	line "¡Puedes pasar!"
 	done
 
 _Route23Text8::
-	text "VICTORY ROAD GATE"
-	line "- #MON LEAGUE"
+	text "PUERTA VICTORIA"
+	line "- LIGA #MON"
 	done

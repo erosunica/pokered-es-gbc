@@ -1,97 +1,101 @@
 _SafariZoneEntranceText1::
-	text "Welcome to the"
-	line "SAFARI ZONE!"
+	text "¡Bienvenido a la"
+	line "ZONA del SAFARI!"
 	done
 
 SafariZoneEntranceText_9e6e4::
-	text "For just ¥500,"
-	line "you can catch all"
-	cont "the #MON you"
-	cont "want in the park!"
+	text "¡Por sólo 500¥,"
+	line "podrás atrapar a"
+	cont "todos los #MON"
+	cont "que quieras en"
+	cont "el parque!"
 
-	para "Would you like to"
-	line "join the hunt?@"
+	para "¿Te gustaría"
+	line "unirte a la caza?@"
 	text_end
 
 SafariZoneEntranceText_9e747::
-	text "That'll be ¥500"
-	line "please!"
+	text "¡Son 500¥,"
+	line "por favor!"
 
-	para "We only use a"
-	line "special # BALL"
-	cont "here."
+	para "Aquí sólo usamos"
+	line "cierto tipo de"
+	cont "# BALL."
 
-	para "<PLAYER> received"
-	line "30 SAFARI BALLs!@"
+	para "¡<PLAYER> obtuvo"
+	line "30 SAFARI BALL!@"
 	text_end
 
 _SafariZoneEntranceText_75360::
 	text_start
 
-	para "We'll call you on"
-	line "the PA when you"
-	cont "run out of time"
-	cont "or SAFARI BALLs!"
+	para "¡Te avisaremos"
+	line "cuando se agoten"
+	cont "tus SAFARI BALL"
+	cont "o tu tiempo!"
 	done
 
 _SafariZoneEntranceText_75365::
-	text "OK! Please come"
-	line "again!"
+	text "¡Bien! ¡Vuelve"
+	line "cuando quieras!"
 	done
 
 _SafariZoneEntranceText_7536a::
-	text "Oops! Not enough"
-	line "money!"
+	text "¡Uuups! ¡No hay"
+	line "bastante dinero!"
 	done
 
 SafariZoneEntranceText_9e814::
-	text "Leaving early?@"
+	text "¿Ya te vas?@"
 	text_end
 
 _SafariZoneEntranceText_753bb::
-	text "Please return any"
-	line "SAFARI BALLs you"
-	cont "have left."
+	text "Devuelve las"
+	line "SAFARI BALL que"
+	cont "te sobren."
 	done
 
 _SafariZoneEntranceText_753c0::
-	text "Good Luck!"
+	text "¡Buena suerte!"
 	done
 
 _SafariZoneEntranceText_753c5::
-	text "Did you get a"
-	line "good haul?"
-	cont "Come again!"
+	text "¿Has tenido buena"
+	line "caza? ¡Vuelve"
+	cont "cuando quieras!"
 	done
 
 _SafariZoneEntranceText_753e6::
-	text "Hi! Is it your"
-	line "first time here?"
+	text "¡Hola! ¿Es tu"
+	line "primera vez aquí?"
 	done
 
 _SafariZoneEntranceText_753eb::
-	text "SAFARI ZONE has 4"
-	line "zones in it."
+	text "La ZONA-SAFARI"
+	line "incluye 4 áreas."
 
-	para "Each zone has"
-	line "different kinds"
-	cont "of #MON. Use"
-	cont "SAFARI BALLs to"
-	cont "catch them!"
+	para "Cada zona tiene"
+	line "diferentes tipos"
+	cont "de #MON. ¡Usa"
+	cont "las SAFARI BALL"
+	cont "para atraparlos!"
 
-	para "When you run out"
-	line "of time or SAFARI"
-	cont "BALLs, it's game"
-	cont "over for you!"
+	para "¡Si agotas el"
+	line "tiempo o las"
+	cont "SAFARI BALL, el"
+	cont "juego se dará"
+	cont "por terminado!"
 
-	para "Before you go,"
-	line "open an unused"
-	cont "#MON BOX so"
-	cont "there's room for"
-	cont "new #MON!"
+	para "¡Antes de ir,"
+	line "abre una nueva"
+	cont "CAJA #MON"
+	cont "y tendrás más"
+	cont "sitio para nuevos"
+	cont "#MON!"
 	done
 
 _SafariZoneEntranceText_753f0::
-	text "Sorry, you're a"
-	line "regular here!"
+	text "¡Perdona, vienes"
+	line "mucho por aquí!"
 	done
+

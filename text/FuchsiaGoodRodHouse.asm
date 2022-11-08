@@ -1,44 +1,44 @@
 _FuchsiaHouse3Text_561bd::
-	text "I'm the FISHING"
-	line "GURU's older"
-	cont "brother!"
+	text "¡Soy el hermano"
+	line "mayor del GURÚ"
+	cont "PESCADOR!"
 
-	para "I simply Looove"
-	line "fishing!"
+	para "¡Me encanta"
+	line "pescar!"
 
-	para "Do you like to"
-	line "fish?"
+	para "¿Y a ti,"
+	line "te gusta pescar?"
 	done
 
 _FuchsiaHouse3Text_561c2::
-	text "Grand! I like"
-	line "your style!"
+	text "¡Fenomenal! ¡Me"
+	line "gusta tu estilo!"
 
-	para "Take this and"
-	line "fish, young one!"
+	para "¡Toma esto y"
+	line "pesca, jovencito!"
 
-	para "<PLAYER> received"
-	line "a @"
+	para "¡<PLAYER> obtiene"
+	line "@"
 	text_ram wcf4b
 	text "!@"
 	text_end
 
 _FuchsiaHouse3Text_56212::
-	text "Oh... That's so"
-	line "disappointing..."
+	text "¡Oh!... ¡Qué"
+	line "decepción!..."
 	done
 
 _FuchsiaHouse3Text_56217::
-	text "Hello there,"
+	text "¡Hola"
 	line "<PLAYER>!"
 
-	para "How are the fish"
-	line "biting?"
+	para "¿Cómo va esa"
+	line "pesca?"
 	done
 
 _FuchsiaHouse3Text_5621c::
-	text "Oh no!"
+	text "¡Oh no!"
 
-	para "You have no room"
-	line "for my gift!"
+	para "¡No tienes sitio"
+	line "para mi regalo!"
 	done

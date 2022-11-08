@@ -1,59 +1,61 @@
 _NameRaterText_1dab3::
-	text "Hello, hello!"
-	line "I am the official"
-	cont "NAME RATER!"
+	text "¡Hola a todos!"
+	line "¡Soy el INSPECTOR"
+	cont "de los NOMBRES!"
 
-	para "Want me to rate"
-	line "the nicknames of"
-	cont "your #MON?"
+	para "¿Quieres que"
+	line "evalúe los motes"
+	cont "de tus #MON?"
 	done
 
 _NameRaterText_1dab8::
-	text "Which #MON"
-	line "should I look at?"
+	text "¿Qué #MON"
+	line "debería evaluar?"
 	prompt
 
 _NameRaterText_1dabd::
+	text "¿@"
 	text_ram wcd6d
-	text ", is it?"
-	line "That is a decent"
-	cont "nickname!"
+	text "?"
+	line "¡Es un buen mote!"
 
-	para "But, would you"
-	line "like me to give"
-	cont "it a nicer name?"
+	para "¿Quieres que le"
+	line "dé otro nombre"
+	cont "mejor?"
 
-	para "How about it?"
+	para "¿Qué te parece?"
 	done
 
 _NameRaterText_1dac2::
-	text "Fine! What should"
-	line "we name it?"
+	text "¿Cómo podríamos"
+	line "llamarlo?"
 	prompt
 
 _NameRaterText_1dac7::
-	text "OK! This #MON"
-	line "has been renamed"
+	text "¡Este #MON ha"
+	line "sido renombrado"
 	cont "@"
 	text_ram wBuffer
 	text "!"
 
-	para "That's a better"
-	line "name than before!"
+	para "¡Ese nombre es"
+	line "mejor que el"
+	cont "anterior!"
 	done
 
 _NameRaterText_1dacc::
-	text "Fine! Come any"
-	line "time you like!"
+	text "¡Bien! ¡Vuelve"
+	line "cuando quieras!"
 	done
 
 _NameRaterText_1dad1::
+	text "¿@"
 	text_ram wcd6d
-	text ", is it?"
-	line "That is a truly"
-	cont "impeccable name!"
+	text "?"
+	line "¡Ese nombre es"
+	cont "perfecto!"
 
-	para "Take good care of"
+	para "¡Cuida bien de"
 	line "@"
 	text_ram wcd6d
 	text "!"
